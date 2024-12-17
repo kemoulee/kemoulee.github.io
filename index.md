@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a first-year Ph.D. student at University of Macau, supervised by Prof. Jiantao Zhou.
+I am currently a first-year Ph.D. student in computer science at University of Macau, supervised by Prof. Jiantao Zhou. I received the B.Sc. degree in mathematics and applied mathematics from Sun Yat-sen University in 2021, and the M.Sc. degree in artificial intelligence applications from University of Macau in 2023.
 
 ## Research Interests
 
