@@ -14,7 +14,7 @@ I am currently a first-year Ph.D. student in Computer Science at University of M
 ## News
 
 - **[Sept. 2024]** One paper about adversarial training is accepted to NeurIPS 2024.
-- **[Sept. 2024]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund!
+- **[Sept. 2024]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund.
 - **[Dec. 2023]** One paper about label-noise learning is accepted to AAAI 2024 (Oral).
 
 {% include_relative _includes/publications.md %}
