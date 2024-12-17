@@ -13,8 +13,8 @@ I am currently a first-year Ph.D. student at University of Macau, supervised by 
 
 ## News
 
-- **[Sept. 2024]** Our paper about adversarial training is accepted to NeurIPS 2024.
-- **[Dec. 2023]** Our paper about label-noise learning is accepted to AAAI 2024.
+- **[Sept. 2024]** One paper about adversarial training is accepted to NeurIPS 2024.
+- **[Dec. 2023]** One paper about label-noise learning is accepted to AAAI 2024.
 
 {% include_relative _includes/publications.md %}
 
