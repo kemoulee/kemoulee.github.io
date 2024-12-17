@@ -6,7 +6,7 @@ main:
     conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2410.12307
     code: https://github.com/Feng-peng-Li/DAT
-    image: ./assets/img/DAT.pdf
+    image: ./assets/img/DAT.jpg
 
   - title: Regroup Median Loss for Combating Label Noise
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Jinyu Tian, Jiantao Zhou
