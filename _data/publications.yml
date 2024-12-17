@@ -7,6 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2410.12307
     code: https://github.com/Feng-peng-Li/DAT
     image: ./assets/img/DAT.jpg
+    notes: f
 
   - title: Regroup Median Loss for Combating Label Noise
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Jinyu Tian, Jiantao Zhou
