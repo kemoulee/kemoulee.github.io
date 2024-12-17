@@ -15,8 +15,8 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul> -->
 
-## Teaching Experience
+<!-- ## Teaching Experience
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
-- [CISC7014] Advanced Topics in Computer Science (Image Processing and Pattern Recognition) (Fall 2024)
+- [CISC7014] Advanced Topics in Computer Science (Image Processing and Pattern Recognition) (Fall 2024) -->
