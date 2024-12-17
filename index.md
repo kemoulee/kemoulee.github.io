@@ -8,7 +8,7 @@ I am currently a first-year Ph.D. student at University of Macau, supervised by 
 
 ## Research Interests
 
-- **Trustworthy Machine Learning:** adversarial training, label-noise learning, out-of-distribution generalization
+- **Trustworthy Machine Learning:** adversarial training, label-noise learning, OOD generalization
 - **AI Security and Forensics:** membership inference, backdoor learning, deepfake detection
 
 ## News
