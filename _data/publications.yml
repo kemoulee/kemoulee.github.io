@@ -1,5 +1,13 @@
 main:
 
+  - title: "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain"
+    authors: Fengpeng Li, <strong>Kemou Li</strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
+    conference_short: NeurIPS
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2410.12307
+    code: https://github.com/Feng-peng-Li/DAT
+    image: ./assets/img/DAT.pdf
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
