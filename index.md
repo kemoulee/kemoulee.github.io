@@ -19,3 +19,5 @@ I am currently a first-year Ph.D. student in computer science at University of M
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teaching.md %}
