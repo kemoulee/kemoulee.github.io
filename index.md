@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a first-year Ph.D. student in Computer Science at University of Macau, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). I received my B.Sc. degree in Mathematics and Applied Mathematics from Sun Yat-sen University in 2021, supervised by [Prof. Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and received my M.Sc. degree in Artificial Intelligence Applications from University of Macau in 2023, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/).
+I am currently a first-year Ph.D. student in Computer Science at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). I received my B.Sc. degree in Mathematics and Applied Mathematics from Sun Yat-sen University in 2021, supervised by [Prof. Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and received my M.Sc. degree in Artificial Intelligence Applications from University of Macau in 2023, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/).
 
 ## Research Interests
 
