@@ -11,7 +11,7 @@ I am currently a first-year Ph.D. student in Computer Science at [State Key Labo
 - **Trustworthy ML:** Adversarial Training, Label-noise Learning, OOD Generalization
 - **AI Security and Forensics:** Membership Inference, Backdoor Learning, Deepfake Detection
 
-## News
+## Recent News
 
 - **[2024-09]** One paper about adversarial training is accepted to NeurIPS 2024.
 - **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund. [[NEWS](https://www.fst.um.edu.mo/news/um-students-win-championship-at-global-deepfake-detection-competition/)]
