@@ -15,7 +15,7 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29250
     code: https://github.com/Feng-peng-Li/Regroup-Median-Loss-for-Combating-Label-Noise
     image: ./assets/img/RML.jpg
-    notes: [Oral, Top 2.2%]
+    notes: Oral, Top 2.2%
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
