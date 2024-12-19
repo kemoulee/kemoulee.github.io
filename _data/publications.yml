@@ -3,7 +3,7 @@ main:
   - title: "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain"
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: NeurIPS'24
-    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, Vancouver, 2024.
+    conference: The 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, Vancouver, 2024.
     pdf: https://arxiv.org/abs/2410.12307
     code: https://github.com/Feng-peng-Li/DAT
     image: ./assets/img/DAT.jpg
@@ -11,7 +11,7 @@ main:
   - title: Regroup Median Loss for Combating Label Noise
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Jinyu Tian, Jiantao Zhou
     conference_short: AAAI'24
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Vancouver, 2024.
+    conference: The 38th AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Vancouver, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29250
     code: https://github.com/Feng-peng-Li/Regroup-Median-Loss-for-Combating-Label-Noise
     image: ./assets/img/RML.jpg
