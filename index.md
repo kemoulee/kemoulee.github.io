@@ -8,8 +8,8 @@ I am currently a first-year Ph.D. student in Computer Science at [State Key Labo
 
 ## Research Interests
 
-- **Trustworthy Machine Learning:** adversarial training, label-noise learning, OOD generalization
-- **AI Security and Forensics:** membership inference, backdoor learning, deepfake detection
+- **Trustworthy Machine Learning:** Adversarial Training, Label-noise Learning, OOD Generalization
+- **AI Security and Forensics:** Membership Inference, Backdoor Learning, Deepfake Detection
 
 ## News
 
