@@ -27,11 +27,8 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 ## Miscs
 
 - Sports Enthusiast: Passionate about running, swimming, and basketball. Completed two half marathons in 2023 (Macao and Hengqin) and achieved top-four finishes twice in Shantou City swimming competitions. A devoted NBA fan for over 15 years.
-
 - Music Lover: Enjoys rock music (post-rock, shoegaze, Britpop) and jazz (cool jazz). A devoted Radiohead fan, an amateur flutist, and a beginner guitarist.
-
 - Cinephile: Fascinated by cinema and series. Favorite films include Blade Runner and The Sheltering Sky. Admirers of directors such as David Lynch, Jiang Wen, and Satoshi Kon. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
-
 - Traditional Arts: Skilled in Chinese calligraphy and Chinese chess, with multiple awards in Guangdong provincial competitions.
 
 
