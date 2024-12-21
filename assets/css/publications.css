@@ -83,10 +83,10 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 /* 添加图片的过渡效果 */
 .publications .pub-row img.teaser {
-    transition: transform 0.3s ease;
+    transition: transform 0.275s ease-out;
 }
 
 /* 悬停时放大图片 */
 .publications .pub-row:hover img.teaser {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
