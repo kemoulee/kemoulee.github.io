@@ -84,15 +84,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 /* 添加图片的过渡效果 */
 .publications .pub-row img.teaser {
     transition: transform 0.3s ease;
-    transform: scale(1); /* 初始状态为正常大小 */
 }
 
-/* 悬停时在容器内放大图片 */
+/* 悬停时放大图片 */
 .publications .pub-row:hover img.teaser {
-    transform: scale(1.2); /* 放大1.2倍 */
-}
-
-/* 确保图片的父容器隐藏溢出内容 */
-.publications .pub-row .abbr {
-    overflow: hidden;
+    transform: scale(1.1);
 }
