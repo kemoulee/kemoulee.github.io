@@ -80,3 +80,13 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* 添加图片的过渡效果 */
+.publications .pub-row img.teaser {
+    transition: transform 0.3s ease;
+}
+
+/* 悬停时放大图片 */
+.publications .pub-row:hover img.teaser {
+    transform: scale(1.2);
+}
