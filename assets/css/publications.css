@@ -87,6 +87,6 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 } */
 
 /* 悬停时放大图片 */
-/* .publications .pub-row:hover img.teaser {
+.publications .pub-row:hover img.teaser {
     transform: scale(1.1);
-} */
+}
