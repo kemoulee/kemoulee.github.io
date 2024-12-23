@@ -26,9 +26,9 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 
 ## Miscs
 
-- **Sports Enthusiast:** Avid runner, swimmer, and basketball fan. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. Over 15 years as an NBA enthusiast.
-- **Music Lover:** Enjoys rock (post-rock, shoegaze, Britpop) and cool jazz. A devoted Radiohead fan, an amateur flutist, and a beginner guitarist.
-- **Cinephile:** Fascinated by cinema and series. Favorites include *Blade Runner* and *The Sheltering Sky*. Admirers of David Lynch, Wen Jiang, and Satoshi Kon. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
-- **Traditional Arts:** Proficient in Chinese chess and calligraphy, with multiple awards in Guangdong provincial competitions.
-
+- **Sports Enthusiast:** Passionate about running, swimming, and basketball. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. Over 15 years as an NBA enthusiast.
+- **Music Lover:** Enjoys rock (post-rock, shoegaze, Britpop) and cool jazz. A devoted Radiohead fan, an amateur flutist, and a novice guitarist.
+- **Cinephile:** Fascinated by cinema and series, with favorites including *Blade Runner*, *The Sheltering Sky*, and *Twin Peaks*. Admirers of David Lynch, Ridley Scott, and Wen Jiang. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
+- **Traditional Arts:** Proficient in Chinese chess and calligraphy, earning multiple awards in Guangdong provincial tournaments.
+- **Others:** A beginner mixologist, a devotee of historic architecture, and an fervent reader of Latin American literature.
 
