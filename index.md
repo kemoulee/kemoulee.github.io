@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a first-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I received my Bachelor's Degree in Mathematics and Applied Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by [Prof. Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence Applications from University of Macau in 2023, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/).
+I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a first-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I received my Bachelor's Degree in Mathematics and Applied Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by [Prof. Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence Applications from University of Macau in 2023, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). I also work closely to [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en) and Prof. Haiwei Wu.
 
 ## Research Interests
 
@@ -26,9 +26,9 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 
 ## Miscs
 
-- Sports Enthusiast: Avid runner, swimmer, and basketball fan. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. Over 15 years as an NBA enthusiast.
-- Music Lover: Enjoys rock (post-rock, shoegaze, Britpop) and cool jazz. A devoted Radiohead fan, an amateur flutist, and a beginner guitarist.
-- Cinephile: Fascinated by cinema and series. Favorites include *Blade Runner* and *The Sheltering Sky*. Admirers of David Lynch, Jiang Wen, and Satoshi Kon. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
-- Traditional Arts: Proficient in Chinese chess and calligraphy, with multiple awards in Guangdong provincial competitions.
+- **Sports Enthusiast:** Avid runner, swimmer, and basketball fan. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. Over 15 years as an NBA enthusiast.
+- **Music Lover:** Enjoys rock (post-rock, shoegaze, Britpop) and cool jazz. A devoted Radiohead fan, an amateur flutist, and a beginner guitarist.
+- **Cinephile:** Fascinated by cinema and series. Favorites include *Blade Runner* and *The Sheltering Sky*. Admirers of David Lynch, Jiang Wen, and Satoshi Kon. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
+- **Traditional Arts:** Proficient in Chinese chess and calligraphy, with multiple awards in Guangdong provincial competitions.
 
 
