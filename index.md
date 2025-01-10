@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a first-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I received my Bachelor's Degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by Prof. [Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence from University of Macau in 2023, supervised by Prof. Jiantao Zhou. I also work closely with [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en) and Prof. Haiwei Wu.
+I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a first-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I received my Bachelor's Degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by Prof. [Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence from University of Macau in 2023, supervised by Prof. Jiantao Zhou. I also work closely with [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en) and Prof. [Haiwei Wu](https://faculty.uestc.edu.cn/haiweiwu/zh_CN/index.htm).
 
 ## Research Interests
 
