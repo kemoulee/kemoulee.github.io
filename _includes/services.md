@@ -1,5 +1,9 @@
 ## Academic Service
 
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
+
+- IEEE Transactions on Information Forensics & Security (TIFS)
+
 <h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee</h4>
 
 - Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024
