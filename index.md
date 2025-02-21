@@ -9,7 +9,7 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 ## Research Interests
 
 - **Trustworthy ML:** Adversarial Training, Label-noise Learning, Machine Unlearning
-- **AI Security and Forensics:** Membership Inference, Backdoor Learning, Deepfake Detection
+- **AI Security & Forensics:** Membership Inference, Backdoor Learning, Deepfake Detection
 
 ## Recent News
 
