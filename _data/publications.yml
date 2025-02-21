@@ -4,7 +4,7 @@ main:
     authors: Kahim Wong, Jicheng Zhou, <strong>Kemou Li</strong>, Yain-Whar Si, Xiaowei Wu, Jiantao Zhou
     conference_short: TMM-25
     conference: Accepted in IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2410.12307
+    # pdf: https://arxiv.org/abs/2410.12307
     code: https://github.com/KAHIMWONG/FontGuard
     image: ./assets/img/watermark_process.png
 
