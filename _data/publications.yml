@@ -12,7 +12,7 @@ main:
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: NeurIPS-24
     conference: The 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS-24)</strong>, Vancouver, 2024.
-    pdf: https://arxiv.org/abs/2410.12307
+    pdf: https://papers.nips.cc/paper_files/paper/2024/hash/e5d5344481c495709eaa6397bf51fb89-Abstract-Conference.html
     code: https://github.com/Feng-peng-Li/DAT
     image: ./assets/img/DAT.jpg
 
