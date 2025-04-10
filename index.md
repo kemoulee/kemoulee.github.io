@@ -25,6 +25,10 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 
 {% include_relative _includes/teaching.md %}
 
+## Awards & Honours
+
+- Inclusion $\cdot$ The Global Multimedia Deepfake Detection (Image Track). 1st place (1/706), JTGroup team. September,2024.
+
 ## Miscs
 
 - **Sports Enthusiast:** Passionate about running, swimming, and basketball. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. NBA enthusiast for over 15 years.
