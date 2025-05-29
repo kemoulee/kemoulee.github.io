@@ -1,7 +1,7 @@
 main:
 
   - title: "RML++: Regroup Median Loss for Combating Label Noise"
-    authors: Fengpeng Li*, <strong>Kemou Li*</strong>, Qizhou Wang, Bo Han, Jinyu Tian, Jiantao Zhou
+    authors: Fengpeng Li*, <strong>Kemou Li*</strong> (*=Equal Contribution), Qizhou Wang, Bo Han, Jinyu Tian, Jiantao Zhou
     conference_short: IJCV-25
     conference: Accepted in International Journal of Computer Vision <strong>(IJCV)</strong>, 2025.
     # pdf: https://arxiv.org/abs/2504.03128v1
