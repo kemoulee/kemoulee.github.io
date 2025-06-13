@@ -1,5 +1,13 @@
 main:
 
+  - title: "Towards Robust Deep Learning via Core Feature-aware Adversarial Training"
+    authors: Fengpeng Li*, <strong>Kemou Li*</strong> (*=Equal Contribution), Haiwei Wu, Jinyu Tian, Jiantao Zhou
+    conference_short: TIFS-25
+    conference: Accepted in IEEE Transactions on Information Forensics & Security <strong>(TIFS)</strong>, 2025.
+    # pdf: https://link.springer.com/article/10.1007/s11263-025-02494-4
+    code: https://github.com/Feng-peng-Li/CoFAT
+    image: ./assets/img/CoFAT.jpg
+
   - title: "RML++: Regroup Median Loss for Combating Label Noise"
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Qizhou Wang, Bo Han, Jinyu Tian, Jiantao Zhou
     conference_short: IJCV-25
