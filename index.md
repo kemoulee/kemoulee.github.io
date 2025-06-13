@@ -30,7 +30,7 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 
 ## Awards & Honours
 
-- Inclusion · The Global Multimedia Deepfake Detection (Image Track). 1st place (1/706), JTGroup team. September, 2024.
+- Inclusion · The Global Multimedia Deepfake Detection (Image Track). 1st Place (1/706), JTGroup Team. September, 2024.
 
 ## Miscs
 
