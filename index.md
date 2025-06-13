@@ -14,6 +14,7 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 ## Recent News
 
 - **[2025-06]** One paper about adversarial training is accepted to TIFS 2025.
+- **[2025-06]** Pass my PhD Qualifying Exam.
 - **[2025-05]** One paper about label-noise learning is accepted to IJCV 2025.
 - **[2025-02]** One paper about font watermarking is accepted to TMM 2025.
 - **[2024-09]** One paper about adversarial training is accepted to NeurIPS 2024.
