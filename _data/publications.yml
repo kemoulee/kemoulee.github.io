@@ -3,7 +3,7 @@ main:
   - title: "Towards Robust Deep Learning via Core Feature-aware Adversarial Training"
     authors: Fengpeng Li*, <strong>Kemou Li*</strong> (*=Equal Contribution), Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: TIFS-25
-    conference: Accepted in IEEE Transactions on Information Forensics & Security <strong>(TIFS)</strong>, 2025.
+    conference: Accepted in IEEE Transactions on Information Forensics & Security <strong>(TIFS)</strong>, 2025
     pdf: https://ieeexplore.ieee.org/document/11045541
     code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/CoFAT.jpg
@@ -11,7 +11,7 @@ main:
   - title: "RML++: Regroup Median Loss for Combating Label Noise"
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Qizhou Wang, Bo Han, Jinyu Tian, Jiantao Zhou
     conference_short: IJCV-25
-    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2025.
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2025
     pdf: https://link.springer.com/article/10.1007/s11263-025-02494-4
     code: https://github.com/Feng-peng-Li/RML-Extension
     image: ./assets/img/RMLEX.jpg
@@ -19,7 +19,7 @@ main:
   - title: "FontGuard: A Robust Font Watermarking Approach Leveraging Deep Font Knowledge"
     authors: Kahim Wong, Jicheng Zhou, <strong>Kemou Li</strong>, Yain-Whar Si, Xiaowei Wu, Jiantao Zhou
     conference_short: TMM-25
-    conference: Accepted in IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025.
+    conference: Accepted in IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025
     pdf: https://arxiv.org/abs/2504.03128v1
     code: https://github.com/KAHIMWONG/FontGuard
     image: ./assets/img/model_overview.png
@@ -27,7 +27,7 @@ main:
   - title: "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain"
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: NeurIPS-24
-    conference: The 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS-24)</strong>, Vancouver, 2024.
+    conference: The 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS-24)</strong>, 2024
     pdf: https://papers.nips.cc/paper_files/paper/2024/hash/e5d5344481c495709eaa6397bf51fb89-Abstract-Conference.html
     code: https://github.com/Feng-peng-Li/DAT
     image: ./assets/img/DAT.jpg
@@ -35,7 +35,7 @@ main:
   - title: Regroup Median Loss for Combating Label Noise
     authors: Fengpeng Li, <strong>Kemou Li</strong>, Jinyu Tian, Jiantao Zhou
     conference_short: AAAI-24
-    conference: The 38th AAAI Conference on Artificial Intelligence <strong>(AAAI-24)</strong>, Vancouver, 2024.
+    conference: The 38th AAAI Conference on Artificial Intelligence <strong>(AAAI-24)</strong>, 2024
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29250
     code: https://github.com/Feng-peng-Li/Regroup-Median-Loss-for-Combating-Label-Noise
     image: ./assets/img/RML.jpg
