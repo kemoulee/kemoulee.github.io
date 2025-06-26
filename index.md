@@ -8,7 +8,7 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 
 ## Research Interests
 
-- **Trustworthy ML:** Adversarial Training, Label-noise Learning, LLM Unlearning
+- **Trustworthy ML:** LLM Unlearning, Adversarial Training, Label-noise Learning 
 - **AI Security & Forensics:** Membership Inference, Backdoor Learning, Deepfake Detection
 
 ## Recent News
@@ -35,7 +35,7 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 ## Miscs
 
 - **Sports Enthusiast:** Passionate about running, swimming, and basketball. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. NBA enthusiast for over 15 years.
-- **Music Lover:** Enjoys rock (post-rock, shoegaze, Britpop) and cool jazz. Radiohead fan, amateur flutist, and novice guitarist.
+- **Music Lover:** Enjoy rock (post-rock, shoegaze, Britpop) and cool jazz. Radiohead fan, amateur flutist, and novice guitarist.
 - **Cinephile:** Favorites includes *Blade Runner*, *The Sheltering Sky*, and *Twin Peaks*. Admirer of David Lynch, Ridley Scott, and Wen Jiang. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
 - **Traditional Arts:** Skilled in Chinese chess and calligraphy, earning multiple awards in Guangdong tournaments.
 - **Others:** Beginner mixologist, historic architecture devotee, and fervent reader of Latin American literature.
