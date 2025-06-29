@@ -1,7 +1,7 @@
 ## Academic Service
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-- IEEE Transactions on Information Forensics & Security (TIFS)
+- IEEE Transactions on Information Forensics and Security (TIFS)
 
 <h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee</h4>
 - Conference on Neural Information Processing Systems (NeurIPS), 2025
