@@ -1,6 +1,6 @@
 main:
 
-  - title: "Towards Robust Deep Learning via Core Feature-aware Adversarial Training"
+  - title: "Toward Robust Deep Learning via Core Feature-aware Adversarial Training"
     authors: Fengpeng Li*, <strong>Kemou Li*</strong> (*=Equal Contribution), Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: TIFS-25
     conference: IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025
