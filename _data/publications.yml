@@ -19,8 +19,8 @@ main:
   - title: "FontGuard: A Robust Font Watermarking Approach Leveraging Deep Font Knowledge"
     authors: Kahim Wong, Jicheng Zhou, <strong>Kemou Li</strong>, Yain-Whar Si, Xiaowei Wu, Jiantao Zhou
     conference_short: TMM-25
-    conference: Accepted in IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025
-    pdf: https://arxiv.org/abs/2504.03128v1
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025
+    pdf: https://ieeexplore.ieee.org/document/11146602
     code: https://github.com/KAHIMWONG/FontGuard
     image: ./assets/img/model_overview.png
 
