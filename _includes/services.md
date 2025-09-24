@@ -4,6 +4,7 @@
 - IEEE Transactions on Information Forensics and Security (TIFS)
 
 <h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee</h4>
+- International Conference on Learning Representations (ICLR), 2026
 - Conference on Neural Information Processing Systems (NeurIPS), 2025
 - International Conference on Machine Learning (ICML), 2025
 - Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024--2025
