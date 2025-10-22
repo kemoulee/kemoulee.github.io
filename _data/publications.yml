@@ -1,5 +1,13 @@
 main:
 
+  - title: "LLM Unlearning with LLM Beliefs"
+    authors: <strong>Kemou Li</strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
+    conference_short: arXiv-25
+    conference: arXiv preprint, 2025
+    # pdf: https://ieeexplore.ieee.org/document/11045541
+    # code: https://github.com/Feng-peng-Li/CoFAT
+    image: ./assets/img/BST.jpg
+
   - title: "Toward Robust Deep Learning via Core Feature-aware Adversarial Training"
     authors: Fengpeng Li*, <strong>Kemou Li*</strong> (*=Equal Contribution), Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: TIFS-25
