@@ -4,7 +4,7 @@ main:
     authors: <strong>Kemou Li</strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
     conference_short: arXiv-25
     conference: arXiv preprint, 2025
-    # pdf: https://ieeexplore.ieee.org/document/11045541
+    pdf: https://arxiv.org/abs/2510.19422
     # code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/BST.jpg
 
