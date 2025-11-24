@@ -6,10 +6,7 @@ layout: homepage
 
 I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/) (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">周建涛</span>). Prior to that, I received my Bachelor's Degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by Prof. [Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence from University of Macau in 2023, supervised by Prof. Jiantao Zhou. I also work closely with [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), and Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm).
 
-## Research Interests
-
-- **Trustworthy ML:** LLM Unlearning, Adversarial Training, Label-noise Learning 
-- **AI Security & Forensics:** Membership Inference, Backdoor Learning, Deepfake Detection
+I am currently focusing on LLM unlearning and its theoretical foundations, while also exploring broader topics in trustworthy machine learning, such as adversarial robustness and learning with noisy labels. I am always excited to collaborate and exchange ideas in these areas.
 
 ## Recent News
 
