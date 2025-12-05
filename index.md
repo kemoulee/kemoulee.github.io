@@ -11,11 +11,11 @@ I am currently focusing on LLM unlearning and its theoretical foundations, while
 ## Recent News
 
 - **[2025-06]** One paper about adversarial training is accepted to TIFS 2025.
-- **[2025-06]** Pass my PhD Qualifying Exam.
+- **[2025-06]** Pass my PhD qualifying exam.
 - **[2025-05]** One paper about label-noise learning is accepted to IJCV 2025.
 - **[2025-02]** One paper about font watermarking is accepted to TMM 2025.
 - **[2024-09]** One paper about adversarial training is accepted to NeurIPS 2024.
-- **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund. [[NEWS](https://skliotsc.um.edu.mo/um-students-win-championship-at-global-deepfake-detection-competition/)]
+- **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund.
 - **[2024-08]** Start my PhD journey @UM.
 - **[2023-12]** One paper about label-noise learning is accepted to AAAI 2024 (Oral, 2.2%).
 
@@ -27,13 +27,13 @@ I am currently focusing on LLM unlearning and its theoretical foundations, while
 
 ## Awards & Honours
 
-- Inclusion · The Global Multimedia Deepfake Detection (Image Track). 1st Place (1/706), JTGroup Team. September, 2024.
+- Inclusion · The Global Multimedia Deepfake Detection (Image Track). 1st Place (1/706), JTGroup Team. September, 2024. [[NEWS](https://skliotsc.um.edu.mo/um-students-win-championship-at-global-deepfake-detection-competition/)]
 
-## Miscs
+<!-- ## Miscs
 
 - **Sports Enthusiast:** Passionate about running, swimming, and basketball. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. NBA enthusiast for over 15 years.
 - **Music Lover:** Enjoy rock (post-rock, shoegaze, Britpop) and cool jazz. Radiohead fan, amateur flutist, and novice guitarist.
 - **Cinephile:** Favorites includes *Blade Runner*, *The Sheltering Sky*, and *Twin Peaks*. Admirer of David Lynch, Ridley Scott, and Wen Jiang. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
 - **Traditional Arts:** Skilled in Chinese chess and calligraphy, earning multiple awards in Guangdong tournaments.
-- **Others:** Beginner mixologist, historic architecture devotee, and fervent reader of Latin American literature.
+- **Others:** Beginner mixologist, historic architecture devotee, and fervent reader of Latin American literature. -->
 
