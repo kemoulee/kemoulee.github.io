@@ -115,7 +115,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .publications .pub-badge.pub-badge--note {
-    border-color: #e74d3c;
-    background: #e74d3c;
+    border-color: #c0392b;
+    background: #c0392b;
     color: #fff;
 }
