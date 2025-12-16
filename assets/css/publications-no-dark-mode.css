@@ -73,3 +73,29 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* CCF rank badge (A/B) */
+.publications .ccf-badge {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.15rem 0.45rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    line-height: 1.2;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.publications .ccf-badge.ccf-a {
+    background: var(--global-hover-color);
+    color: var(--global-text-color);
+    border-color: var(--global-hover-color);
+}
+
+.publications .ccf-badge.ccf-b {
+    background: var(--global-theme-color);
+    color: #fff;
+    border-color: var(--global-theme-color);
+}
