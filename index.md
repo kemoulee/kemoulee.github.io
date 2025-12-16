@@ -8,7 +8,7 @@ I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;"
 
 I am currently focusing on machine unlearning for LLMs and diffusion models, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy machine learning. Previously, my research centered on adversarial robustness and learning with noisy labels. Please feel free to contact me through [WeChat](/assets/img/wechat_qr.png) or [email](mailto:kemou.li@connect.umac.mo) if you’d like to collaborate or exchange ideas on related topics :)
 
-## Recent News
+## News
 
 <div class="recent-news-scroll" markdown="1">
 
