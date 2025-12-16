@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <small style="font-size: 60%; color: #666;">(* = Equal Contribution)</small></h2>
 
 <div class="publications">
 <ol class="bibliography">
