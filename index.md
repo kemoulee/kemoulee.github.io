@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/) (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">周建涛</span>). Prior to that, I received my Bachelor's Degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by Prof. [Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence from University of Macau in 2023, supervised by Prof. Jiantao Zhou. I also work closely with Dr. [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), and Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm).
+I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/) (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">周建涛</span>). Prior to that, I received my Bachelor's Degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, supervised by Prof. [Zhiwei Wu](https://mathzh.sysu.edu.cn/zh-hans/teacher/124), and my Master's Degree in Artificial Intelligence from University of Macau in 2023, supervised by Prof. Jiantao Zhou. I also work closely with Dr. [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), and Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm).
 
 I am currently focusing on LLM unlearning and its theoretical foundations, while also exploring broader topics in trustworthy machine learning, such as adversarial robustness and learning with noisy labels. I am always excited to collaborate and exchange ideas in these areas.
 
@@ -12,12 +12,12 @@ I am currently focusing on LLM unlearning and its theoretical foundations, while
 
 - **[2025-06]** One paper about adversarial training is accepted to TIFS 2025.
 - **[2025-06]** Pass my PhD qualifying exam.
-- **[2025-05]** One paper about label-noise learning is accepted to IJCV 2025.
+- **[2025-05]** One paper about learning with noisy labels is accepted to IJCV 2025.
 - **[2025-02]** One paper about font watermarking is accepted to TMM 2025.
 - **[2024-09]** One paper about adversarial training is accepted to NeurIPS 2024.
 - **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund.
 - **[2024-08]** Start my PhD journey @UM.
-- **[2023-12]** One paper about label-noise learning is accepted to AAAI 2024 (Oral, 2.2%).
+- **[2023-12]** One paper about learning with noisy labels is accepted to AAAI 2024 (Oral, 2.2%).
 
 {% include_relative _includes/publications.md %}
 
