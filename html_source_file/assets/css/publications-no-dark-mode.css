@@ -63,7 +63,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     gap: 0.35rem;
 }
 
-.publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
+.publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; border-radius: 999px; }
 
 .publications ol.bibliography li .links a.btn:hover { color: var(--global-theme-color); border-color: var(--global-theme-color); }
 
@@ -98,22 +98,25 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .publications .pub-badge.pub-badge--rank {
-    border-color: var(--global-theme-color);
+    border-color: var(--global-hover-color);
+    background: var(--global-hover-color);
     color: var(--global-theme-color);
 }
 
 .publications .pub-badge.pub-badge--rank.pub-badge--a {
     border-color: var(--global-hover-color);
-    color: var(--global-hover-color);
+    background: var(--global-hover-color);
+    color: var(--global-theme-color);
 }
 
 .publications .pub-badge.pub-badge--rank.pub-badge--b {
-    border-color: var(--global-theme-color);
+    border-color: var(--global-hover-color);
+    background: var(--global-hover-color);
     color: var(--global-theme-color);
 }
 
 .publications .pub-badge.pub-badge--note {
-    border-color: var(--global-theme-color);
-    background: var(--global-theme-color);
+    border-color: #e74d3c;
+    background: #e74d3c;
     color: #fff;
 }
