@@ -120,6 +120,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .publications .pub-badge.pub-badge--note {
-  border-color: var(--global-hover-color);
-  color: var(--global-hover-color);
+  border-color: var(--global-theme-color);
+  background: var(--global-theme-color);
+  color: #fff;
 }
