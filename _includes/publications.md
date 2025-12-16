@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <small style="font-size: 65%; color: #888;">(* = Equal Contribution)</small></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <small style="font-size: 60%; color: #888;">(* = Equal Contribution)</small></h2>
 
 <div class="publications">
 <ol class="bibliography">
