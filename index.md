@@ -27,7 +27,7 @@ I am currently focusing on machine unlearning for LLMs and diffusion models, wit
 
 ## Awards & Honours
 
-- Inclusion · The Global Multimedia Deepfake Detection (Image Track). 1st Place (1/706), JTGroup Team. September, 2024. [[NEWS](https://skliotsc.um.edu.mo/um-students-win-championship-at-global-deepfake-detection-competition/)]
+- Inclusion · The Global Multimedia Deepfake Detection Challenge (Image Track) (organized by Ant Group). 1st Place (1/706), JTGroup Team. Prize: 100,000 CNY. September, 2024. [[NEWS](https://skliotsc.um.edu.mo/um-students-win-championship-at-global-deepfake-detection-competition/)]
 
 <!-- ## Miscs
 
