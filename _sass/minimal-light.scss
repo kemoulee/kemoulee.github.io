@@ -2,6 +2,12 @@
   display: flex; 
   align-items: center;}
 
+.recent-news-scroll {
+  max-height: 12rem;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
+}
+
 .social-icons a{
   display:inline-block;
   height:2.4rem;
