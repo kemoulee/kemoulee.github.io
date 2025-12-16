@@ -10,6 +10,8 @@ I am currently focusing on machine unlearning for LLMs and diffusion models, wit
 
 ## Recent News
 
+<div class="recent-news-scroll" markdown="1">
+
 - **[2025-06]** One paper about adversarial training is accepted to TIFS 2025.
 - **[2025-06]** Pass my PhD qualifying exam.
 - **[2025-05]** One paper about learning with noisy labels is accepted to IJCV 2025.
@@ -18,6 +20,8 @@ I am currently focusing on machine unlearning for LLMs and diffusion models, wit
 - **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund.
 - **[2024-08]** Start my PhD journey @UM.
 - **[2023-12]** One paper about learning with noisy labels is accepted to AAAI 2024 (Oral, 2.2%).
+
+</div>
 
 {% include_relative _includes/publications.md %}
 
