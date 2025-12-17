@@ -1,7 +1,9 @@
 ## Professional Services
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-- IEEE Transactions on Information Forensics and Security (TIFS)
+<ul style="margin:0 0 6px;">
+  <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee</h4>
 - Conferece on Computer Vision and Pattern Recognition (CVPR), 2026
