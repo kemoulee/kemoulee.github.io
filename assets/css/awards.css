@@ -1,0 +1,24 @@
+/* Awards list: reuse publications layout, with link-badges for CODE/NEWS */
+
+.awards a.pub-badge {
+  text-decoration: none;
+}
+
+.awards a.pub-badge.pub-badge--link {
+  border-color: var(--global-theme-color);
+  color: var(--global-theme-color);
+}
+
+.awards a.pub-badge.pub-badge--link:hover {
+  background: var(--global-theme-color);
+  color: #fff;
+}
+
+.awards a.pub-badge.pub-badge--news {
+  border-color: var(--global-hover-color);
+}
+
+.awards a.pub-badge.pub-badge--news:hover {
+  background: var(--global-hover-color);
+  color: var(--global-theme-color);
+}

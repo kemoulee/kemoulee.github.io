@@ -1,0 +1,10 @@
+main:
+
+  - title: "Inclusion · The Global Multimedia Deepfake Detection Challenge (Image Track)"
+    url: "https://www.kaggle.com/competitions/multi-ffdi/overview"
+    subtitle1: "Organized by Ant Group, September, 2024"
+    subtitle2: "Champion (1/706), JTGroup Team. Prize: 100,000 CNY"
+    image: "./assets/img/competition.png"
+    # pdf: ""
+    code: "https://github.com/HighwayWu/DeepFakeDefenders"
+    news: "https://skliotsc.um.edu.mo/um-students-win-championship-at-global-deepfake-detection-competition/"
