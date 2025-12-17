@@ -29,9 +29,11 @@
     {% if site.auto_dark_mode %}
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="./assets/css/avatar-flip.css">
     {% else %}
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    <link rel="stylesheet" href="./assets/css/avatar-flip.css">
     {% endif %}
 
   </head>
@@ -40,7 +42,20 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+          {% if site.avatar_back %}
+          <a class="image avatar avatar-flip">
+            <span class="avatar-flip-inner">
+              <span class="avatar-flip-face avatar-flip-front">
+                <img src="{{ site.avatar }}" alt="avatar" />
+              </span>
+              <span class="avatar-flip-face avatar-flip-back">
+                <img src="{{ site.avatar_back }}" alt="avatar" />
+              </span>
+            </span>
+          </a>
+          {% else %}
+          <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+          {% endif %}
         {% endif %}
 
         <h1>{{ site.title }}</h1>

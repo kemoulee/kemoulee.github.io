@@ -22,6 +22,7 @@ instagram: https://www.instagram.com/kemoulee/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/photo2.jpg
+avatar_back: ./assets/img/never_enough.jpg
 favicon: ./assets/img/Ride.png
 favicon_dark: ./assets/img/Ride.png
 
