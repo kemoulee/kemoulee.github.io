@@ -120,3 +120,18 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     background: #c0392b;
     color: #fff;
 }
+
+/* Publications link badge (match Awards & Honors Code style) */
+.publications a.pub-badge {
+    text-decoration: none;
+}
+
+.publications a.pub-badge.pub-badge--link {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+}
+
+.publications a.pub-badge.pub-badge--link:hover {
+    background: var(--global-theme-color);
+    color: #fff;
+}
