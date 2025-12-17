@@ -22,7 +22,7 @@
       </div>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="{{ link.pdf }}" class="pub-badge pub-badge--pdf" target="_blank" rel="noopener">PDF</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="pub-badge pub-badge--link" target="_blank" rel="noopener">Code</a>
