@@ -18,7 +18,8 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ award.url }}" target="_blank" rel="noopener">{{ award.title }}</a></div>
-      <div class="author">{{ award.subtitle1 }}</div>
+      {% assign award_subtitle1 = award.subtitle1 | replace: 'Champion', '<span class="award-champion"><i class="fa-solid fa-trophy" aria-hidden="true"></i> <strong>Champion</strong></span>' %}
+      <div class="author">{{ award_subtitle1 }}</div>
       {% assign award_subtitle2 = award.subtitle2 | replace: 'Champion', '<span class="award-champion"><i class="fa-solid fa-trophy" aria-hidden="true"></i> <strong>Champion</strong></span>' %}
       <div class="periodical"><em>{{ award_subtitle2 }}</em></div>
     <div class="links">
