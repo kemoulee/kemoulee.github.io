@@ -5,7 +5,7 @@
   <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 - Conferece on Computer Vision and Pattern Recognition (CVPR), 2026
 - International Conference on Learning Representations (ICLR), 2026
 - Conference on Neural Information Processing Systems (NeurIPS), 2025
