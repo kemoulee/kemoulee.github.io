@@ -15,12 +15,13 @@
 }
 
 .awards a.pub-badge.pub-badge--news {
-  border-color: var(--global-hover-color);
+  border-color: #c0392b;
+  color: #c0392b;
 }
 
 .awards a.pub-badge.pub-badge--news:hover {
-  background: var(--global-hover-color);
-  color: var(--global-theme-color);
+  background: #c0392b;
+  color: #fff;
 }
 
 .awards .award-champion {
