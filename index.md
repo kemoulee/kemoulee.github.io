@@ -25,8 +25,6 @@ I am currently focusing on machine unlearning for LLMs and diffusion models, wit
 
 {% include_relative _includes/publications.md %}
 
-## Awards & Honors
-
 {% include_relative _includes/awards.md %}
 
 

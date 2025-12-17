@@ -1,3 +1,6 @@
+
+<h2 id="awards" style="margin: 2px 0px -15px;">Awards &amp; Honors</h2>
+
 <div class="publications awards">
 <ol class="bibliography">
 
@@ -16,16 +19,17 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ award.url }}" target="_blank" rel="noopener">{{ award.title }}</a></div>
       <div class="author">{{ award.subtitle1 }}</div>
-      <div class="periodical"><em>{{ award.subtitle2 }}</em></div>
+      {% assign award_subtitle2 = award.subtitle2 | replace: 'Champion', '<span class="award-champion"><i class="fa-solid fa-trophy" aria-hidden="true"></i> <strong>Champion</strong></span>' %}
+      <div class="periodical"><em>{{ award_subtitle2 }}</em></div>
     <div class="links">
       {% if award.pdf %}
       <a href="{{ award.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if award.code %}
-      <a href="{{ award.code }}" class="pub-badge pub-badge--link" target="_blank" rel="noopener">CODE</a>
+      <a href="{{ award.code }}" class="pub-badge pub-badge--link" target="_blank" rel="noopener">Code</a>
       {% endif %}
       {% if award.news %}
-      <a href="{{ award.news }}" class="pub-badge pub-badge--link pub-badge--news" target="_blank" rel="noopener">NEWS</a>
+      <a href="{{ award.news }}" class="pub-badge pub-badge--link pub-badge--news" target="_blank" rel="noopener">News</a>
       {% endif %}
       {% if award.others %}
       {{ award.others }}

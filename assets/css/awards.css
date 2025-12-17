@@ -22,3 +22,12 @@
   background: var(--global-hover-color);
   color: var(--global-theme-color);
 }
+
+.awards .award-champion {
+  color: var(--global-hover-color);
+  font-weight: 700;
+}
+
+.awards .award-champion i {
+  margin-right: 0.25em;
+}
