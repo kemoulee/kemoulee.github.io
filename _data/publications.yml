@@ -46,7 +46,7 @@ main:
 
   - title: Regroup Median Loss for Combating Label Noise
     authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Jinyu Tian, Jiantao Zhou
-    conference_short: AAAI-24
+    conference_short: AAAI-24 (Oral)
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024
     badges: ["CCF A"]
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29250
