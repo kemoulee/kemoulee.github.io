@@ -2,11 +2,21 @@ main:
 
   - title: "LLM Unlearning with LLM Beliefs"
     authors: <strong><u>Kemou Li</u></strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
-    conference_short: arXiv-25
-    conference: arXiv preprint, 2025
+    conference_short: ICLR-26
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
+    badges: ["Tsinghua A"]
     pdf: https://arxiv.org/abs/2510.19422
     # code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/BST.jpg
+
+    - title: "AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models"
+    authors: Fengpeng<strong><u>Kemou Li</u></strong>, Qizhou Wang, Bo Han, Jiantao Zhou
+    conference_short: ICLR-26
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
+    badges: ["Tsinghua A"]
+    # pdf: https://arxiv.org/abs/2510.19422
+    # code: https://github.com/Feng-peng-Li/CoFAT
+    image: ./assets/img/AEGIS.jpg
 
   - title: "Toward Robust Deep Learning via Core Feature-aware Adversarial Training"
     authors: Fengpeng Li*, <strong><u>Kemou Li*</u></strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
@@ -46,13 +56,13 @@ main:
 
   - title: Regroup Median Loss for Combating Label Noise
     authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Jinyu Tian, Jiantao Zhou
-    conference_short: AAAI-24 (Oral)
+    conference_short: AAAI-24 Oral
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024
     badges: ["CCF A"]
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29250
     code: https://github.com/Feng-peng-Li/Regroup-Median-Loss-for-Combating-Label-Noise
     image: ./assets/img/RML.jpg
-    notes: Oral, 2.2%
+    notes: Oral (2.2%)
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
