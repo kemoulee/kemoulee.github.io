@@ -9,7 +9,7 @@ main:
     # code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/BST.jpg
 
-    - title: "AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models"
+    title: "AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models"
     authors: Fengpeng<strong><u>Kemou Li</u></strong>, Qizhou Wang, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
