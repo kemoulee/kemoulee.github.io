@@ -11,7 +11,7 @@
   <li>Conferece on Computer Vision and Pattern Recognition (CVPR), 2026</li>
   <li>International Conference on Learning Representations (ICLR), 2026</li>
   <li>Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
-  <li>International Conference on Machine Learning (ICML), 2025--2026</li>
+  <li>International Conference on Machine Learning (ICML), 2025–2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Session Chair</h4>
