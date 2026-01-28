@@ -48,7 +48,7 @@ main:
   - title: "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain"
     authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: NeurIPS-24
-    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024
     badges: ["CCF A"]
     pdf: https://papers.nips.cc/paper_files/paper/2024/hash/e5d5344481c495709eaa6397bf51fb89-Abstract-Conference.html
     code: https://github.com/Feng-peng-Li/DAT
