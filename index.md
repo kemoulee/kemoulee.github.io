@@ -12,7 +12,7 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 
 <div class="recent-news-scroll" markdown="1">
 
-- **[2026-01]** One paper on LLM unlearning and one on concept erasure from diffusion models are accepted to ICLR 2026.
+- **[2026-01]** Two papers—one on LLM unlearning and one on diffusion model concept erasure—are accepted to ICLR 2026.
 - **[2025-06]** One paper on adversarial training is accepted to TIFS.
 - **[2025-06]** Pass my PhD qualifying exam.
 - **[2025-05]** One paper on learning with noisy labels is accepted to IJCV.
