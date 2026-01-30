@@ -15,7 +15,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
     badges: ["Tsinghua A"]
     pdf: https://openreview.net/forum?id=3y3hnL7KhS
-    # code: https://github.com/Feng-peng-Li/CoFAT
+    code: https://github.com/Feng-peng-Li/AEGIS
     image: ./assets/img/AEGIS.jpg
 
   - title: "Toward Robust Deep Learning via Core Feature-aware Adversarial Training"
