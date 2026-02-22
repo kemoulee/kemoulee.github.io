@@ -1,4 +1,12 @@
 main:
+  - title: "Editprint: General Digital Image Forensics via Editing Fingerprint with Self-Augmentation Training"
+    authors: Haiwei Wu, <strong><u>Kemou Li</u></strong>, Yuanman Li, Jiantao Zhou
+    conference_short: CVPR-26
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    badges: ["CCF A"]
+    # pdf: https://openreview.net/forum?id=qCfYOLAzti
+    # code: https://github.com/Feng-peng-Li/CoFAT
+    image: ./assets/img/Editprint.jpg
 
   - title: "LLM Unlearning with LLM Beliefs"
     authors: <strong><u>Kemou Li</u></strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
