@@ -6,7 +6,7 @@ layout: homepage
 
 I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and MS degree in Artificial Intelligence from University of Macau. I also work closely with Dr. [Fengpeng Li](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [Bo Han](http://bhanml.github.io/).
 
-I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy machine learning and AI security. Please feel free to contact me if you’d like to collaborate or exchange ideas on related topics :-)
+I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy machine learning. Please feel free to contact me if you’d like to collaborate or exchange ideas on related topics :-)
 
 ## News
 
