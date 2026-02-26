@@ -8,7 +8,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 <ul style="margin:0 0 6px;">
   <li>European Conference on Computer Vision (ECCV), 2026</li>
-  <li>Conferece on Computer Vision and Pattern Recognition (CVPR), 2026</li>
+  <li>IEEE/CVF Conferece on Computer Vision and Pattern Recognition (CVPR), 2026</li>
   <li>International Conference on Machine Learning (ICML), 2026</li>
   <li>International Conference on Learning Representations (ICLR), 2026</li>
   <li>Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
