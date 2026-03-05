@@ -12,7 +12,7 @@ main:
     authors: <strong><u>Kemou Li</u></strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
-    badges: ["Tsinghua A"]
+    badges: ["CCF A"]
     pdf: https://openreview.net/forum?id=qCfYOLAzti
     # code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/BST.jpg
@@ -21,7 +21,7 @@ main:
     authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Qizhou Wang, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
-    badges: ["Tsinghua A"]
+    badges: ["CCF A"]
     pdf: https://openreview.net/forum?id=3y3hnL7KhS
     # code: https://github.com/Feng-peng-Li/AEGIS
     image: ./assets/img/AEGIS.jpg
@@ -48,7 +48,7 @@ main:
     authors: Kahim Wong, Jicheng Zhou, <strong><u>Kemou Li</u></strong>, Yain-Whar Si, Xiaowei Wu, Jiantao Zhou
     conference_short: TMM-25
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025
-    badges: ["Tsinghua A"]
+    badges: ["CCF A"]
     pdf: https://ieeexplore.ieee.org/document/11146602
     code: https://github.com/KAHIMWONG/FontGuard
     image: ./assets/img/model_overview.png
