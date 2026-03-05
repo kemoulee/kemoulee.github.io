@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Organizing Committee</h4>
 <ul style="margin:0 0 6px;">
-  <li>Asia--Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024</li>
+  <li>Asia–Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
@@ -15,7 +15,7 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-<ul style="margin:0 0 6px;">
+<ul style="margin:0 0 20px;">
   <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
 </ul>
 
