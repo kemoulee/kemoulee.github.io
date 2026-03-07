@@ -12,6 +12,7 @@
   <li>International Conference on Machine Learning (ICML), 2026</li>
   <li>Conferece on Computer Vision and Pattern Recognition (CVPR), 2026</li>
   <li>European Conference on Computer Vision (ECCV), 2026</li>
+  <li>Asia–Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024–2025</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
