@@ -15,7 +15,7 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 25px;">
   <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
   <li>Knowledge-Based Systems (KBS)</li>
 </ul>
