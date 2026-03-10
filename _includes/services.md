@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Organizing Committee</h4>
 <ul style="margin:0 0 6px;">
-  <li>Session Chair, [APSIPA ASC 2024](http://apsipa.org/asc_web/apsipa2024/index.html), 3–6 Dec., Macao, China</li>
+  <li>Session Chair, <a href="http://apsipa.org/asc_web/apsipa2024/index.html">APSIPA ASC 2024</a>, 3-6 Dec., Macao, China</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
