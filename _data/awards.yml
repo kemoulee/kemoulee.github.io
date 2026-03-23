@@ -2,7 +2,7 @@ main:
 
   - title: "NTIRE 2026: Robust AI-Generated Image Detection in the Wild Challenge"
     url: "https://www.codabench.org/competitions/12761/"
-    subtitle1: "6th Place (6/507), Team UESTC."
+    subtitle1: "6th Place (6/507), Team UESTC"
     subtitle2: "NTIRE @ CVPR 2026, 2026"
     image: "./assets/img/ntire.png"
     # pdf: ""
