@@ -2,7 +2,7 @@ main:
 
   - title: "NTIRE 2026: Robust AI-Generated Image Detection in the Wild Challenge"
     url: "https://www.codabench.org/competitions/12761/"
-    subtitle1: "6th Place (6/507), Team UESTC"
+    subtitle1: "6th Place (6/511), Team UESTC"
     subtitle2: "NTIRE @ CVPR 2026, 2026"
     image: "./assets/img/ntire.png"
     # pdf: ""
@@ -11,7 +11,7 @@ main:
 
   - title: "Inclusion · The Global Multimedia Deepfake Detection Challenge (Image Track)"
     url: "https://www.kaggle.com/competitions/multi-ffdi/overview"
-    subtitle1: "Champion (1/706), Team JT Group. Prize: 100,000 CNY"
+    subtitle1: "Champion (1/706), Team JTGroup. Prize: 100,000 CNY"
     subtitle2: "Inclusion Conference on the Bund (Organized by Ant Group), 2024"
     image: "./assets/img/competition.png"
     # pdf: ""
