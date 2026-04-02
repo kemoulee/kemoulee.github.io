@@ -1,4 +1,13 @@
 main:
+  - title: "$k$NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection"
+    authors: Kahim Wong, <strong><u>Kemou Li</u></strong>, Haiwei Wu, Jiantao Zhou
+    conference_short: arXiv-26
+    conference: arXiv preprint, 2026
+    # badges: ["CCF A"]
+    # pdf: https://openreview.net/forum?id=qCfYOLAzti
+    # code: https://github.com/Feng-peng-Li/CoFAT
+    image: ./assets/img/kNNProxy.jpg
+
   - title: "Editprint: General Digital Image Forensics via Editing Fingerprint with Self-Augmentation Training"
     authors: Haiwei Wu*, <strong><u>Kemou Li*</u></strong>, Yuanman Li, Jiantao Zhou
     conference_short: CVPR-26
