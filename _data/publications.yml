@@ -4,7 +4,7 @@ main:
     conference_short: arXiv-26
     conference: arXiv preprint, 2026
     # badges: ["CCF A"]
-    # pdf: https://openreview.net/forum?id=qCfYOLAzti
+    pdf: https://arxiv.org/abs/2604.02008
     # code: https://github.com/Feng-peng-Li/CoFAT
     image: ./assets/img/kNNProxy.jpg
 
