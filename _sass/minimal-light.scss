@@ -303,7 +303,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  max-width:1080px;
+  width:90%;
   margin:0 auto;
 }
 
@@ -320,7 +321,7 @@ code, pre {
 }
 
 pre {
-  max-width:500px;
+  max-width:600px;
   padding:8px 15px;
   background: #f8f8f8;
   border-radius:5px;
@@ -439,7 +440,8 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:calc(100% - 300px);
+  max-width:740px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
