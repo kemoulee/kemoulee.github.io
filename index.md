@@ -2,46 +2,54 @@
 layout: homepage
 ---
 
+<section id="about" class="content-section content-section--hero" markdown="1">
+<div class="section-kicker">Profile</div>
+
 ## About Me
 
-I am Kemou Li (<span style="font-family: '楷体', 'KaiTi'; font-size: inherit;">李科谋</span>), currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and MS degree in Artificial Intelligence from University of Macau. I also work closely with Dr. [Fengpeng Li](https://feng-peng-li.github.io/FengpengLi/), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [Bo Han](http://bhanml.github.io/).
+I am Kemou Li, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/) and the [University of Macau](https://www.um.edu.mo/), advised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from the University of Macau. I also work closely with Dr. [Fengpeng Li](https://feng-peng-li.github.io/FengpengLi/), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [Bo Han](http://bhanml.github.io/).
 
-I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. Please feel free to contact me if you’d like to collaborate or exchange ideas on related topics :-)
+I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. Please feel free to contact me if you would like to collaborate or exchange ideas on related topics.
+</section>
+
+<section id="news" class="content-section" markdown="1">
+<div class="section-kicker">Latest</div>
 
 ## News
 
 <div class="recent-news-scroll" markdown="1">
 
-- **[2026-03]** Our team wins the 6th place (6/511) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
+- **[2026-03]** Our team wins 6th place (6/511) at the NTIRE @ CVPR 2026 Robust AI-Generated Image Detection in the Wild Challenge.
 - **[2026-02]** One paper on image forensics is accepted to CVPR 2026. See you in Denver!
 - **[2026-01]** Two papers on LLM unlearning and diffusion model concept erasure are accepted to ICLR 2026. See you in Rio de Janeiro!
 - **[2025-06]** One paper on adversarial training is accepted to IEEE TIFS.
-- **[2025-06]** Pass my PhD qualifying exam.
+- **[2025-06]** I passed my PhD qualifying exam.
 - **[2025-05]** One paper on learning with noisy labels is accepted to IJCV.
 - **[2025-02]** One paper on font watermarking is accepted to IEEE TMM.
 - **[2024-09]** One paper on adversarial training is accepted to NeurIPS 2024.
-- **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) on the 2024 Inclusion Conference on the Bund.
-- **[2024-08]** Start my PhD journey @UM.
+- **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
+- **[2024-08]** I started my PhD journey at the University of Macau.
 - **[2023-12]** One paper on learning with noisy labels is accepted to AAAI 2024 Oral (Top 2.2%).
 
 </div>
+</section>
 
+<section id="publications" class="content-section">
+<div class="section-kicker">Research</div>
 {% include_relative _includes/publications.md %}
+</section>
 
+<section id="awards" class="content-section">
+<div class="section-kicker">Honors</div>
 {% include_relative _includes/awards.md %}
+</section>
 
-
+<section id="services" class="content-section">
+<div class="section-kicker">Community</div>
 {% include_relative _includes/services.md %}
+</section>
 
+<section id="teaching" class="content-section">
+<div class="section-kicker">Teaching</div>
 {% include_relative _includes/teaching.md %}
-
-
-
-<!-- ## Miscs
-
-- **Sports Enthusiast:** Passionate about running, swimming, and basketball. Completed two half marathons in 2023 (Macao and Hengqin) and twice ranked top-four in Shantou swimming competitions. NBA enthusiast for over 15 years.
-- **Music Lover:** Enjoy rock (post-rock, shoegaze, Britpop) and cool jazz. Radiohead fan, amateur flutist, and novice guitarist.
-- **Cinephile:** Favorites includes *Blade Runner*, *The Sheltering Sky*, and *Twin Peaks*. Admirer of David Lynch, Ridley Scott, and Wen Jiang. [[Douban](https://www.douban.com/people/164280142/?_i=4789768GCnwyYr,4789794GCnwyYr)]
-- **Traditional Arts:** Skilled in Chinese chess and calligraphy, earning multiple awards in Guangdong tournaments.
-- **Others:** Beginner mixologist, historic architecture devotee, and fervent reader of Latin American literature. -->
-
+</section>

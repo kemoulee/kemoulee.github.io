@@ -1,38 +1,28 @@
-## Professional Services
+<h2>Professional Services</h2>
 
-<h4 style="margin:0 10px 0;">Organizing Committee</h4>
-<ul style="margin:0 0 6px;">
-  <li>Session Chair, <a href="http://apsipa.org/asc_web/apsipa2024/index.html">APSIPA ASC 2024</a>, 3-6 Dec., Macao, China</li>
-</ul>
+<div class="info-group">
+  <h3>Organizing Committee</h3>
+  <ul class="detail-list">
+    <li>Session Chair, <a href="http://apsipa.org/asc_web/apsipa2024/index.html">APSIPA ASC 2024</a>, Dec. 3-6, Macao, China</li>
+  </ul>
+</div>
 
-<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
-<ul style="margin:0 0 6px;">
-  <li>Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
-  <li>International Conference on Learning Representations (ICLR), 2026</li>
-  <li>International Conference on Machine Learning (ICML), 2026</li>
-  <li>Conferece on Computer Vision and Pattern Recognition (CVPR), 2026</li>
-  <li>European Conference on Computer Vision (ECCV), 2026</li>
-  <li>Asia–Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024–2025</li>
-</ul>
+<div class="info-group">
+  <h3>Conference Reviewer</h3>
+  <ul class="detail-list">
+    <li>Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
+    <li>International Conference on Learning Representations (ICLR), 2026</li>
+    <li>International Conference on Machine Learning (ICML), 2026</li>
+    <li>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</li>
+    <li>European Conference on Computer Vision (ECCV), 2026</li>
+    <li>Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2024-2025</li>
+  </ul>
+</div>
 
-<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-<ul style="margin:0 0 25px;">
-  <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
-  <li>Knowledge-Based Systems (KBS)</li>
-</ul>
-
-
-
-<!-- <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul> -->
-
-<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul> -->
-
+<div class="info-group">
+  <h3>Journal Reviewer</h3>
+  <ul class="detail-list">
+    <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
+    <li>Knowledge-Based Systems (KBS)</li>
+  </ul>
+</div>
