@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Ubuntu+Mono&display=swap");
-body { background-color: #fff; padding: 0px; font: 0.9rem/1.6 "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #242424; font-weight: 400; margin: 0; scroll-behavior: smooth; }
+body { background-color: #fff; padding: 0px; font: 17px/1.6 "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #242424; font-weight: 400; margin: 0; }
 html, body { overflow-x: hidden; word-wrap: break-word; overflow-wrap: break-word; }
 
 .pub-row { display: flex; align-items: center; }
@@ -73,9 +73,9 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h1 { font-weight: 600; color: #043361; margin: 0 0 18px; }
+h1 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h2 { color: #043361; font-weight: 600; margin: 2px 0px 14px; font-size: 1.45rem; }
+h2 { color: #043361; font-weight: 600; margin: 2px 0px 15px; font-size: 1.8rem; }
 
 @media (prefers-color-scheme: dark) { h1, h3, h4, h5, h6 { color: #3eb7f0; }
   h2 { color: #3eb7f0; } }
@@ -83,7 +83,7 @@ p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
 
-h1 { font-size: 2rem; }
+h1 { font-size: 34px; }
 
 a { color: #39c; text-decoration: none; }
 
@@ -114,7 +114,7 @@ th { color: #444; }
   dt { color: #3eb7f0; } }
 img { max-width: 100%; }
 
-header { width: 360px; position: fixed; top: 50%; left: 0; transform: translateY(-50%); display: flex; flex-direction: column; justify-content: center; align-items: center; -webkit-font-smoothing: subpixel-antialiased; padding: 2rem 0 2rem 8rem; box-sizing: border-box; text-align: center; }
+header { width: 320px; position: fixed; top: 50%; left: 0; transform: translateY(-50%); display: flex; flex-direction: column; justify-content: center; align-items: center; -webkit-font-smoothing: subpixel-antialiased; padding: 2rem 0 2rem 5rem; box-sizing: border-box; text-align: center; }
 
 header ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
@@ -137,7 +137,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: calc(100% - 360px); max-width: 960px; margin-left: 360px; padding: 2rem 10rem 2rem 11rem; box-sizing: border-box; }
+section { width: auto; max-width: none; margin-left: 320px; padding: 4rem clamp(40px, 8vw, 120px) 50px clamp(40px, 6vw, 96px); box-sizing: border-box; }
 
 small { font-size: 11px; }
 
