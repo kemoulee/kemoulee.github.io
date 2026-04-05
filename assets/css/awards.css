@@ -9,9 +9,9 @@
 }
 
 .awards .pub-badge.pub-badge--news {
-  border-color: rgba(186, 216, 255, 0.95);
+  border-color: rgba(220, 228, 239, 0.96);
   color: #174ac4;
-  background: linear-gradient(135deg, rgba(240, 247, 255, 0.95), rgba(233, 248, 255, 0.88));
+  background: linear-gradient(135deg, rgba(244, 247, 251, 0.96), rgba(233, 248, 255, 0.88));
 }
 
 .awards .pub-badge.pub-badge--news:hover {
