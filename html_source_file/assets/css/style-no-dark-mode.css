@@ -14,6 +14,8 @@
   --page-accent-deep: #18467f;
   --page-accent-alt: #4f8fd6;
   --page-accent-teal: #5f9fc3;
+  --page-accent-mist: #8ab5df;
+  --page-accent-steel: #6f88b8;
   --page-accent-soft: #e7f1ff;
   --page-shadow: 0 28px 70px rgba(25, 67, 114, 0.11);
   --page-shadow-soft: 0 18px 42px rgba(33, 76, 128, 0.08);
@@ -39,6 +41,7 @@ body {
     radial-gradient(circle at top left, rgba(115, 175, 255, 0.24), transparent 28%),
     radial-gradient(circle at 92% 8%, rgba(95, 159, 195, 0.18), transparent 22%),
     radial-gradient(circle at 65% 100%, rgba(157, 197, 245, 0.18), transparent 24%),
+    radial-gradient(circle at 22% 78%, rgba(177, 220, 236, 0.14), transparent 18%),
     linear-gradient(180deg, #edf5ff 0%, #f9fcff 48%, #eef5ff 100%);
   color: var(--page-text);
   font: 17px/1.72 "Crimson Pro", Georgia, serif;
@@ -135,7 +138,7 @@ pre {
   padding: clamp(1.5rem, 2.2vw, 2rem);
   border: 1px solid rgba(182, 207, 234, 0.95);
   border-radius: var(--radius-xl);
-  background: linear-gradient(160deg, rgba(255, 255, 255, 0.98), rgba(243, 248, 255, 0.94) 58%, rgba(236, 246, 255, 0.9));
+  background: linear-gradient(155deg, rgba(255, 255, 255, 0.985), rgba(245, 250, 255, 0.96) 52%, rgba(237, 247, 255, 0.92));
   box-shadow: var(--page-shadow);
 }
 
@@ -160,12 +163,12 @@ pre {
 .image.avatar {
   display: block;
   width: fit-content;
-  margin-bottom: 1.55rem;
-  padding: 0.48rem;
-  border: 1px solid rgba(191, 214, 238, 0.92);
-  border-radius: 34px;
-  background: linear-gradient(145deg, rgba(255, 255, 255, 0.95), rgba(233, 244, 255, 0.9));
-  box-shadow: 0 16px 36px rgba(30, 74, 126, 0.08);
+  margin: 0 auto 1.4rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .image.avatar:before {
@@ -174,13 +177,13 @@ pre {
 
 .image.avatar img {
   display: block;
-  width: min(100%, 224px);
+  width: min(100%, 192px);
   aspect-ratio: 4 / 5;
   object-fit: cover;
   padding: 0;
-  border: 1px solid var(--page-line);
-  border-radius: 28px;
-  box-shadow: var(--page-shadow-soft);
+  border: 0;
+  border-radius: 24px;
+  box-shadow: 0 16px 34px rgba(27, 72, 123, 0.11);
 }
 
 .profile-copy {
@@ -214,15 +217,17 @@ h6 {
 }
 
 h1 {
-  margin: 0;
-  font-size: clamp(2.5rem, 4vw, 3.2rem);
+  margin: 0 0 0.12rem;
+  font-size: clamp(2.05rem, 2.7vw, 2.22rem);
   font-weight: 600;
+  letter-spacing: -0.015em;
 }
 
 h2 {
   margin: 0 0 1rem;
-  font-size: clamp(1.85rem, 2.6vw, 2.35rem);
+  font-size: clamp(1.82rem, 2.4vw, 2.02rem);
   font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 h3 {
@@ -233,7 +238,7 @@ h3 {
 
 .profile-affiliation,
 .profile-subline {
-  margin: 0.55rem 0 0;
+  margin: 0.42rem 0 0;
   color: var(--page-text-soft);
 }
 
@@ -242,11 +247,15 @@ h3 {
   color: inherit;
 }
 
+.profile-affiliation {
+  font-size: 1.02rem;
+}
+
 .profile-subline {
   display: flex;
   align-items: center;
   gap: 0.65rem;
-  font-size: 0.98rem;
+  font-size: 0.95rem;
 }
 
 .profile-subline i {
@@ -256,16 +265,17 @@ h3 {
 }
 
 .profile-bio {
-  margin: 1rem 0 0;
+  margin: 0.9rem 0 0;
   color: var(--page-text);
-  font-size: 1.03rem;
+  font-size: 0.99rem;
+  line-height: 1.66;
 }
 
 .social-icons {
   display: flex;
   flex-wrap: wrap;
   gap: 0.7rem;
-  margin-top: 1.15rem;
+  margin-top: 1.05rem;
 }
 
 .social-icons a {
@@ -377,6 +387,54 @@ h3 {
 
 .content-section--hero {
   background: linear-gradient(155deg, rgba(255, 255, 255, 0.99), rgba(241, 247, 255, 0.95) 58%, rgba(234, 245, 255, 0.93));
+}
+
+#about {
+  background: linear-gradient(152deg, rgba(255, 255, 255, 0.99), rgba(240, 247, 255, 0.96) 55%, rgba(232, 243, 255, 0.94));
+}
+
+#news {
+  background: linear-gradient(158deg, rgba(255, 255, 255, 0.985), rgba(242, 249, 255, 0.95) 58%, rgba(233, 247, 251, 0.93));
+}
+
+#publications {
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.985), rgba(245, 250, 255, 0.95) 60%, rgba(237, 245, 255, 0.93));
+}
+
+#awards {
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.985), rgba(246, 251, 255, 0.95) 58%, rgba(236, 248, 252, 0.93));
+}
+
+#services {
+  background: linear-gradient(158deg, rgba(255, 255, 255, 0.985), rgba(245, 249, 255, 0.95) 58%, rgba(236, 243, 255, 0.93));
+}
+
+#teaching {
+  background: linear-gradient(158deg, rgba(255, 255, 255, 0.985), rgba(244, 249, 255, 0.95) 56%, rgba(235, 246, 255, 0.93));
+}
+
+#about::after {
+  background: radial-gradient(circle at top right, rgba(83, 152, 239, 0.16), rgba(138, 181, 223, 0.08), rgba(83, 152, 239, 0));
+}
+
+#news::after {
+  background: radial-gradient(circle at top right, rgba(95, 159, 195, 0.18), rgba(148, 214, 231, 0.08), rgba(95, 159, 195, 0));
+}
+
+#publications::after {
+  background: radial-gradient(circle at top right, rgba(79, 143, 214, 0.17), rgba(111, 136, 184, 0.07), rgba(79, 143, 214, 0));
+}
+
+#awards::after {
+  background: radial-gradient(circle at top right, rgba(95, 159, 195, 0.16), rgba(130, 186, 255, 0.08), rgba(95, 159, 195, 0));
+}
+
+#services::after {
+  background: radial-gradient(circle at top right, rgba(111, 136, 184, 0.14), rgba(138, 181, 223, 0.08), rgba(111, 136, 184, 0));
+}
+
+#teaching::after {
+  background: radial-gradient(circle at top right, rgba(79, 143, 214, 0.16), rgba(95, 159, 195, 0.08), rgba(79, 143, 214, 0));
 }
 
 .content-section--hero p {
@@ -544,7 +602,7 @@ footer {
   }
 
   .image.avatar img {
-    width: min(100%, 194px);
+    width: min(100%, 176px);
   }
 }
 

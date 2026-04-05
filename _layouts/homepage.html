@@ -33,7 +33,6 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
-    <link rel="stylesheet" href="./assets/css/avatar-flip.css">
     <link rel="stylesheet" href="./assets/css/awards.css">
   </head>
   <body>
@@ -41,22 +40,9 @@
       <header class="site-sidebar">
         <div class="profile-card">
           {% if site.avatar %}
-            {% if site.avatar_back %}
-            <a class="image avatar avatar-flip" aria-label="{{ site.title }}">
-              <span class="avatar-flip-inner">
-                <span class="avatar-flip-face avatar-flip-front">
-                  <img src="{{ site.avatar }}" alt="{{ site.title }}">
-                </span>
-                <span class="avatar-flip-face avatar-flip-back">
-                  <img src="{{ site.avatar_back }}" alt="{{ site.title }}">
-                </span>
-              </span>
-            </a>
-            {% else %}
             <a class="image avatar" aria-label="{{ site.title }}">
               <img src="{{ site.avatar }}" alt="{{ site.title }}">
             </a>
-            {% endif %}
           {% endif %}
 
           <div class="profile-copy">
