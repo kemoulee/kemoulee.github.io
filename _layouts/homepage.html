@@ -57,7 +57,12 @@
               <a href="{{ site.affiliation_link | default: 'https://www.um.edu.mo/' }}" rel="noopener">{{ site.affiliation }}</a>
             </p>
             {% endif %}
-            {% if site.bio %}
+            {% if site.research_areas %}
+            <div class="profile-research">
+              <p class="profile-research-label">Research Interests</p>
+              <p class="profile-research-copy">{{ site.research_areas | join: " · " }}</p>
+            </div>
+            {% elsif site.bio %}
             <p class="profile-bio">{{ site.bio }}</p>
             {% endif %}
           </div>
@@ -104,6 +109,10 @@
             </a>
             {% endif %}
           </div>
+
+          {% if site.last_updated %}
+          <p class="profile-last-updated">Last updated {{ site.last_updated }}</p>
+          {% endif %}
         </div>
       </header>
 
@@ -122,18 +131,6 @@
 
         <div class="content-stack">
           {{ content }}
-
-          <section class="content-section site-footer-card">
-            {% if site.enable_footnote %}
-            <p class="site-footnote">
-              <small>&copy; 2024-2026 {{ site.title }} | Last updated {{ site.last_updated }} | Powered by Jekyll.</small>
-            </p>
-            {% endif %}
-
-            <div class="visitor-map">
-              <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=VMz8aV4zZa_3BlDD7dBQsNf0yRqo9dGKK9_csKCkHpE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
-            </div>
-          </section>
         </div>
       </main>
     </div>
