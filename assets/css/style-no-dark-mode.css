@@ -17,6 +17,8 @@
   --page-accent-soft: #e7f1ff;
   --page-shadow: 0 28px 70px rgba(25, 67, 114, 0.11);
   --page-shadow-soft: 0 18px 42px rgba(33, 76, 128, 0.08);
+  --page-shadow-card: 0 20px 42px rgba(28, 72, 123, 0.08), 0 8px 18px rgba(28, 72, 123, 0.05);
+  --page-shadow-card-hover: 0 28px 54px rgba(28, 72, 123, 0.12), 0 10px 24px rgba(28, 72, 123, 0.07);
   --radius-xl: 32px;
   --radius-md: 18px;
 }
@@ -130,7 +132,7 @@ pre {
 .profile-card {
   position: relative;
   overflow: hidden;
-  padding: clamp(1.35rem, 2vw, 1.8rem);
+  padding: clamp(1.5rem, 2.2vw, 2rem);
   border: 1px solid rgba(182, 207, 234, 0.95);
   border-radius: var(--radius-xl);
   background: linear-gradient(160deg, rgba(255, 255, 255, 0.98), rgba(243, 248, 255, 0.94) 58%, rgba(236, 246, 255, 0.9));
@@ -157,8 +159,13 @@ pre {
 
 .image.avatar {
   display: block;
-  margin-bottom: 1.35rem;
-  border-radius: 30px;
+  width: fit-content;
+  margin-bottom: 1.55rem;
+  padding: 0.48rem;
+  border: 1px solid rgba(191, 214, 238, 0.92);
+  border-radius: 34px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.95), rgba(233, 244, 255, 0.9));
+  box-shadow: 0 16px 36px rgba(30, 74, 126, 0.08);
 }
 
 .image.avatar:before {
@@ -167,12 +174,12 @@ pre {
 
 .image.avatar img {
   display: block;
-  width: min(100%, 238px);
+  width: min(100%, 224px);
   aspect-ratio: 4 / 5;
   object-fit: cover;
   padding: 0;
   border: 1px solid var(--page-line);
-  border-radius: 30px;
+  border-radius: 28px;
   box-shadow: var(--page-shadow-soft);
 }
 
@@ -293,6 +300,7 @@ h3 {
   position: sticky;
   top: 18px;
   z-index: 20;
+  overflow: hidden;
   display: flex;
   flex-wrap: wrap;
   gap: 0.7rem;
@@ -305,7 +313,17 @@ h3 {
   box-shadow: var(--page-shadow-soft);
 }
 
+.page-nav::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.42), rgba(214, 234, 255, 0.18), rgba(227, 245, 255, 0.22));
+  pointer-events: none;
+}
+
 .page-nav a {
+  position: relative;
+  z-index: 1;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -314,11 +332,15 @@ h3 {
   color: var(--page-text-soft);
   font-size: 1.03rem;
   font-weight: 700;
+  letter-spacing: 0.01em;
+  transition: color 0.24s ease, background 0.24s ease, transform 0.24s ease, box-shadow 0.24s ease;
 }
 
 .page-nav a:hover {
   background: linear-gradient(135deg, rgba(231, 241, 255, 0.98), rgba(228, 247, 255, 0.96));
   color: var(--page-accent-deep);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 20px rgba(51, 109, 179, 0.12);
 }
 
 .content-stack {
@@ -333,7 +355,7 @@ h3 {
   border: 1px solid var(--page-line);
   border-radius: var(--radius-xl);
   background: linear-gradient(165deg, rgba(255, 255, 255, 0.94), rgba(246, 250, 255, 0.94) 65%, rgba(239, 247, 255, 0.92));
-  box-shadow: var(--page-shadow-soft);
+  box-shadow: var(--page-shadow-card);
 }
 
 .content-section::after {
@@ -359,6 +381,15 @@ h3 {
 
 .content-section--hero p {
   font-size: 1.06rem;
+}
+
+#about p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#about p + p {
+  margin-top: 0.85rem;
 }
 
 .section-kicker {
@@ -395,7 +426,7 @@ h3 {
 }
 
 .recent-news-scroll {
-  max-height: 17rem;
+  max-height: 13.4rem;
   overflow: auto;
   padding-right: 0.35rem;
 }
@@ -405,24 +436,25 @@ h3 {
   padding: 0;
   margin: 0;
   display: grid;
-  gap: 0.58rem;
+  gap: 0.3rem;
 }
 
 .recent-news-scroll li {
   position: relative;
   padding-left: 1.05rem;
+  line-height: 1.5;
 }
 
 .recent-news-scroll li::before {
   content: "";
   position: absolute;
-  top: 0.72rem;
+  top: 0.63rem;
   left: 0;
-  width: 0.48rem;
-  height: 0.48rem;
+  width: 0.4rem;
+  height: 0.4rem;
   border-radius: 50%;
   background: var(--page-accent);
-  box-shadow: 0 0 0 5px rgba(42, 105, 184, 0.14);
+  box-shadow: 0 0 0 4px rgba(42, 105, 184, 0.12);
 }
 
 .recent-news-scroll strong {
@@ -512,7 +544,7 @@ footer {
   }
 
   .image.avatar img {
-    width: min(100%, 205px);
+    width: min(100%, 194px);
   }
 }
 
