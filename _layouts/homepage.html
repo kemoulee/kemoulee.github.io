@@ -55,24 +55,17 @@
               <a href="{{ site.affiliation_link | default: 'https://www.um.edu.mo/' }}" rel="noopener">{{ site.affiliation }}</a>
             </p>
             {% endif %}
-            {% if site.location %}
-            <p class="profile-subline">
-              <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
-              <span>{{ site.location }}</span>
-            </p>
-            {% endif %}
-            {% if site.email %}
-            <p class="profile-subline">
-              <i class="fa-regular fa-envelope" aria-hidden="true"></i>
-              <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-            </p>
-            {% endif %}
             {% if site.bio %}
             <p class="profile-bio">{{ site.bio }}</p>
             {% endif %}
           </div>
 
           <div class="social-icons">
+            {% if site.email %}
+            <a href="mailto:{{ site.email }}" aria-label="Email">
+              <i class="fa-regular fa-envelope"></i>
+            </a>
+            {% endif %}
             {% if site.google_scholar %}
             <a href="{{ site.google_scholar }}" aria-label="Google Scholar" target="_blank" rel="noopener">
               <i class="ai ai-google-scholar" style="font-size:1.15rem"></i>
