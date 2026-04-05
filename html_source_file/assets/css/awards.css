@@ -4,14 +4,14 @@
 }
 
 .awards .pub-badge.pub-badge--link:hover {
-  background: #2a69b8;
+  background: linear-gradient(135deg, #2a69b8, #5f9fc3);
   color: #fff;
 }
 
 .awards .pub-badge.pub-badge--news {
   border-color: #5b93d6;
   color: #18467f;
-  background: #edf6ff;
+  background: linear-gradient(135deg, #edf6ff, #e6fbff);
 }
 
 .awards .pub-badge.pub-badge--news:hover {

@@ -86,25 +86,6 @@
             {% endif %}
           </div>
 
-          <div class="profile-actions">
-            {% if site.cv_link %}
-            <a class="profile-action" href="{{ site.cv_link }}" target="_blank" rel="noopener">CV</a>
-            {% endif %}
-            {% if site.google_scholar %}
-            <a class="profile-action" href="{{ site.google_scholar }}" target="_blank" rel="noopener">Scholar</a>
-            {% endif %}
-            {% if site.github_link %}
-            <a class="profile-action" href="{{ site.github_link }}" target="_blank" rel="noopener">GitHub</a>
-            {% endif %}
-          </div>
-
-          {% if site.sidebar_note %}
-          <div class="profile-note">
-            <span class="profile-note-label">Current Focus</span>
-            <p>{{ site.sidebar_note }}</p>
-          </div>
-          {% endif %}
-
           <div class="social-icons">
             {% if site.google_scholar %}
             <a href="{{ site.google_scholar }}" aria-label="Google Scholar" target="_blank" rel="noopener">

@@ -3,8 +3,6 @@ layout: homepage
 ---
 
 <section id="about" class="content-section content-section--hero" markdown="1">
-<div class="section-kicker">Profile</div>
-
 ## About Me
 
 I am Kemou Li, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/) and the [University of Macau](https://www.um.edu.mo/), advised by Prof. [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from the University of Macau. I also work closely with Dr. [Fengpeng Li](https://feng-peng-li.github.io/FengpengLi/), Dr. [Qizhou Wang](https://qizhouwang.github.io/homepage/), Prof. [Haiwei Wu](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [Bo Han](http://bhanml.github.io/).
@@ -13,8 +11,6 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 </section>
 
 <section id="news" class="content-section" markdown="1">
-<div class="section-kicker">Latest</div>
-
 ## News
 
 <div class="recent-news-scroll" markdown="1">
@@ -35,21 +31,17 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 </section>
 
 <section id="publications" class="content-section">
-<div class="section-kicker">Research</div>
 {% include_relative _includes/publications.md %}
 </section>
 
 <section id="awards" class="content-section">
-<div class="section-kicker">Honors</div>
 {% include_relative _includes/awards.md %}
 </section>
 
 <section id="services" class="content-section">
-<div class="section-kicker">Community</div>
 {% include_relative _includes/services.md %}
 </section>
 
 <section id="teaching" class="content-section">
-<div class="section-kicker">Teaching</div>
 {% include_relative _includes/teaching.md %}
 </section>

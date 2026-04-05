@@ -3,6 +3,7 @@
   --global-text-color-light: #6a84a0;
   --global-theme-color: #2a69b8;
   --global-theme-color-deep: #18467f;
+  --global-theme-color-alt: #5f9fc3;
   --global-hover-color: #8ec5ff;
 }
 
@@ -42,7 +43,7 @@
   padding: 1.2rem;
   border: 1px solid #d6e4f5;
   border-radius: 24px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(246, 250, 255, 0.9));
+  background: linear-gradient(155deg, rgba(255, 255, 255, 0.97), rgba(245, 250, 255, 0.93) 62%, rgba(237, 247, 255, 0.9));
   box-shadow: 0 16px 36px rgba(24, 70, 127, 0.06);
 }
 
@@ -78,7 +79,7 @@
   justify-content: center;
   padding: 0.38rem 0.72rem;
   border-radius: 999px;
-  background: rgba(24, 70, 127, 0.94);
+  background: linear-gradient(135deg, rgba(24, 70, 127, 0.96), rgba(42, 105, 184, 0.92));
   color: #fff !important;
   font-size: 0.72rem;
   font-weight: 700;
@@ -151,14 +152,14 @@
 }
 
 .publications .pub-badge.pub-badge--link:hover {
-  background: var(--global-theme-color);
+  background: linear-gradient(135deg, var(--global-theme-color), var(--global-theme-color-alt));
   color: #fff;
 }
 
 .publications .pub-badge.pub-badge--pdf {
   border-color: #8ec5ff;
   color: var(--global-theme-color-deep);
-  background: #edf6ff;
+  background: linear-gradient(135deg, #edf6ff, #e8fbff);
 }
 
 .publications .pub-badge.pub-badge--pdf:hover {
@@ -168,7 +169,7 @@
 
 .publications .pub-badge.pub-badge--rank {
   border-color: #d7ebff;
-  background: #d7ebff;
+  background: linear-gradient(135deg, #d7ebff, #e2f4ff);
   color: var(--global-theme-color-deep);
 }
 
