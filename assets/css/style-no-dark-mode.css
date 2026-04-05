@@ -631,31 +631,191 @@ h3 {
   background-clip: padding-box;
 }
 
-.info-group h3 {
-  margin-bottom: 0.34rem;
+.feature-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 0.1rem;
 }
 
-.info-group + .info-group {
-  margin-top: 0.95rem;
+.feature-grid--services {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
-.detail-list {
+.feature-card {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  gap: 0.72rem;
+  padding: 1.15rem 1.15rem 1.08rem;
+  border: 1px solid rgba(255, 255, 255, 0.76);
+  border-radius: 24px;
+  background: linear-gradient(150deg, rgba(255, 255, 255, 0.82), rgba(245, 249, 255, 0.72) 64%, rgba(236, 244, 255, 0.66));
+  box-shadow: 0 16px 38px rgba(22, 48, 82, 0.06), 0 8px 18px rgba(22, 48, 82, 0.04);
+  backdrop-filter: blur(18px) saturate(155%);
+}
+
+.feature-card::after {
+  content: "";
+  position: absolute;
+  top: -34px;
+  right: -24px;
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(148, 189, 255, 0.16), rgba(148, 189, 255, 0));
+  pointer-events: none;
+}
+
+.feature-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+.feature-eyebrow {
   margin: 0;
-  padding-left: 1.15rem;
+  color: var(--page-text-soft);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
 }
 
-.detail-list li + li {
-  margin-top: 0.18rem;
+.feature-card h3,
+.teaching-shell__intro h3 {
+  margin: 0;
+  font-size: 1.08rem;
+  line-height: 1.22;
 }
 
-#services .detail-list,
-#teaching .detail-list {
-  margin-bottom: 0;
+.feature-body {
+  display: grid;
+  gap: 0.56rem;
 }
 
-#services .detail-list li,
-#teaching .detail-list li {
-  line-height: 1.42;
+.feature-row {
+  display: grid;
+  gap: 0.22rem;
+}
+
+.feature-main strong {
+  display: block;
+  margin: 0;
+  color: var(--page-heading);
+  font-size: 0.96rem;
+  font-weight: 700;
+}
+
+.feature-main p {
+  margin: 0.18rem 0 0;
+  color: var(--page-text);
+  font-size: 0.92rem;
+  line-height: 1.48;
+}
+
+.chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.48rem;
+}
+
+.info-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2rem;
+  padding: 0.38rem 0.68rem;
+  border: 1px solid rgba(204, 220, 242, 0.92);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  color: var(--page-accent-deep);
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  backdrop-filter: blur(10px);
+}
+
+.teaching-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 260px) minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
+
+.teaching-shell__intro {
+  display: grid;
+  gap: 0.56rem;
+  padding: 1.15rem 1.15rem 1.08rem;
+  border: 1px solid rgba(255, 255, 255, 0.76);
+  border-radius: 24px;
+  background: linear-gradient(150deg, rgba(255, 255, 255, 0.84), rgba(246, 250, 255, 0.74) 64%, rgba(238, 245, 255, 0.68));
+  box-shadow: 0 16px 38px rgba(22, 48, 82, 0.06), 0 8px 18px rgba(22, 48, 82, 0.04);
+  backdrop-filter: blur(18px) saturate(155%);
+}
+
+.teaching-shell__intro p:last-child {
+  margin: 0;
+  color: var(--page-text);
+  font-size: 0.93rem;
+  line-height: 1.56;
+}
+
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.82rem;
+}
+
+.teaching-card {
+  display: grid;
+  gap: 0.44rem;
+  padding: 1rem 1rem 0.96rem;
+  border: 1px solid rgba(255, 255, 255, 0.76);
+  border-radius: 22px;
+  background: linear-gradient(150deg, rgba(255, 255, 255, 0.82), rgba(245, 249, 255, 0.72) 64%, rgba(236, 244, 255, 0.66));
+  box-shadow: 0 14px 32px rgba(22, 48, 82, 0.06), 0 7px 16px rgba(22, 48, 82, 0.04);
+  backdrop-filter: blur(16px) saturate(150%);
+}
+
+.teaching-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.65rem;
+}
+
+.course-code {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.34rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(231, 241, 255, 0.92);
+  color: var(--page-accent-deep);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.course-term {
+  color: var(--page-text-soft);
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.teaching-card h4 {
+  margin: 0;
+  color: var(--page-heading);
+  font-size: 0.98rem;
+  line-height: 1.34;
+  font-weight: 700;
+}
+
+.teaching-card p {
+  margin: 0;
+  color: var(--page-text);
+  font-size: 0.88rem;
+  line-height: 1.48;
 }
 
 footer {
@@ -678,6 +838,12 @@ footer {
   .page-nav {
     top: 10px;
     border-radius: 24px;
+  }
+
+  .feature-grid--services,
+  .teaching-shell,
+  .teaching-grid {
+    grid-template-columns: 1fr;
   }
 }
 
