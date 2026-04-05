@@ -8,10 +8,9 @@ email: kemou.li@connect.umac.mo
 bio: Researching machine unlearning for LLMs, trustworthy foundation models, machine learning, and AI security.
 sidebar_note: I am especially interested in the theoretical foundations of LLM unlearning and trustworthy foundation models.
 research_areas:
-  - Machine Unlearning
-  - Trustworthy Foundation Models
+  - LLM Unlearning
+  - Trustworthy AI
   - Machine Learning
-  - AI Security
 last_updated: 2026-04-06
 
 # Search Engine Optimization (SEO)
