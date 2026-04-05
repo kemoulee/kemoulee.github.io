@@ -2,7 +2,6 @@
 
 <div class="feature-grid feature-grid--services">
   <article class="feature-card">
-    <p class="feature-eyebrow">Leadership</p>
     <h3>Organizing Committee</h3>
     <div class="feature-body">
       <div class="feature-row">
@@ -15,7 +14,6 @@
   </article>
 
   <article class="feature-card">
-    <p class="feature-eyebrow">Peer Review</p>
     <h3>Conference Reviewer</h3>
     <div class="chip-list">
       <span class="info-chip">NeurIPS 2025</span>
@@ -28,7 +26,6 @@
   </article>
 
   <article class="feature-card">
-    <p class="feature-eyebrow">Journals</p>
     <h3>Journal Reviewer</h3>
     <div class="chip-list">
       <span class="info-chip">IEEE TIFS</span>

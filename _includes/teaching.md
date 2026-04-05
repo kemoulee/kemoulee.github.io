@@ -4,7 +4,7 @@
   <div class="teaching-shell__intro">
     <p class="feature-eyebrow">Teaching Assistant</p>
     <h3>University of Macau</h3>
-    <p>I have supported both postgraduate and general education courses in artificial intelligence, machine learning, multimedia, and image processing.</p>
+    <p>I have supported both postgraduate and graduate courses in artificial intelligence, machine learning, multimedia, and image processing.</p>
   </div>
 
   <div class="teaching-grid">
@@ -23,7 +23,7 @@
         <span class="course-term">Fall 2025</span>
       </div>
       <h4>Multimedia Technology in Modern Society</h4>
-      <p>General education course</p>
+      <p>Graduate course</p>
     </article>
 
     <article class="teaching-card">
