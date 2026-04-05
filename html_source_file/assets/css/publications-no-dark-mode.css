@@ -64,15 +64,7 @@
 }
 
 .pub-row::after {
-  content: "";
-  position: absolute;
-  top: -50px;
-  right: -44px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(236, 241, 247, 0.82), rgba(171, 206, 255, 0.16), rgba(171, 206, 255, 0));
-  pointer-events: none;
+  display: none;
 }
 
 .pub-row:hover {
