@@ -7,11 +7,11 @@ layout: homepage
 
 I am Kemou Li, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/) and the [University of Macau](https://www.um.edu.mo/), advised by Prof. [*Jiantao Zhou*](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from the University of Macau. I also work closely with Dr. [*Fengpeng Li*](https://feng-peng-li.github.io/FengpengLi/), Dr. [*Qizhou Wang*](https://qizhouwang.github.io/homepage/), Prof. [*Haiwei Wu*](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [*Bo Han*](http://bhanml.github.io/).
 
-I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. Please feel free to contact me if you would like to collaborate or exchange ideas on related topics :-)
+I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. I am always open to collaboration or exchanging ideas on related topics.
 
 <div class="about-callout">
   <p class="about-callout__eyebrow">Open For Collaboration</p>
-  <p class="about-callout__text">I am currently looking for visiting PhD / researcher opportunities. Please feel free to contact me about any potential openings :)</p>
+  <p class="about-callout__text">I am currently looking for visiting PhD opportunities. Please feel free to contact me about any potential openings :)</p>
 </div>
 </section>
 
