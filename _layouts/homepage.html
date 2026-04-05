@@ -60,7 +60,11 @@
             {% if site.research_areas %}
             <div class="profile-research">
               <p class="profile-research-label">Research Interests</p>
-              <p class="profile-research-copy">{{ site.research_areas | join: " · " }}</p>
+              <ul class="profile-research-list">
+                {% for area in site.research_areas %}
+                <li>{{ area }}</li>
+                {% endfor %}
+              </ul>
             </div>
             {% elsif site.bio %}
             <p class="profile-bio">{{ site.bio }}</p>
