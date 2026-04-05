@@ -40,9 +40,11 @@
       <header class="site-sidebar">
         <div class="profile-card">
           {% if site.avatar %}
+          <div class="profile-avatar-wrap">
             <a class="image avatar" aria-label="{{ site.title }}">
               <img src="{{ site.avatar }}" alt="{{ site.title }}">
             </a>
+          </div>
           {% endif %}
 
           <div class="profile-copy">
