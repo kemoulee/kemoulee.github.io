@@ -56,7 +56,7 @@ body {
     linear-gradient(180deg, #edf3f9 0%, #f8f9fb 46%, #edf4fb 100%);
   color: var(--page-text);
   font: 16.3px/1.72 var(--page-font-sans);
-  font-weight: 460;
+  font-weight: 465;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -118,7 +118,7 @@ td,
 .teaching-shell__intro p:last-child,
 .teaching-card p,
 .course-term {
-  font-weight: 475;
+  font-weight: 480;
 }
 
 strong {
