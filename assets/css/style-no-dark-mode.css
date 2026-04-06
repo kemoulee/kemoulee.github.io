@@ -530,16 +530,27 @@ h3 {
   background: linear-gradient(156deg, rgba(255, 255, 255, 0.84), rgba(245, 248, 252, 0.82) 28%, rgba(241, 246, 250, 0.74) 56%, rgba(235, 246, 255, 0.68));
 }
 
+#about::after,
+#news::after,
+#publications::after {
+  display: block;
+  width: 228px;
+  height: 228px;
+  background:
+    radial-gradient(circle at top right, rgba(133, 186, 240, 0.2) 0%, rgba(171, 205, 239, 0.14) 30%, rgba(221, 234, 247, 0.09) 52%, rgba(133, 186, 240, 0) 74%),
+    linear-gradient(225deg, rgba(255, 255, 255, 0.34), rgba(255, 255, 255, 0) 62%);
+}
+
 #about::after {
-  background: radial-gradient(circle at top right, rgba(83, 152, 239, 0.16), rgba(138, 181, 223, 0.08), rgba(83, 152, 239, 0));
+  opacity: 1;
 }
 
 #news::after {
-  display: none;
+  opacity: 0.96;
 }
 
 #publications::after {
-  background: radial-gradient(circle at top right, rgba(79, 143, 214, 0.17), rgba(111, 136, 184, 0.07), rgba(79, 143, 214, 0));
+  opacity: 0.98;
 }
 
 #awards::after {
