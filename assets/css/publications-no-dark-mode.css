@@ -94,9 +94,11 @@
 }
 
 .pub-venue-watermark--arxiv {
-  width: clamp(78px, 8.9vw, 116px);
-  bottom: 0.62rem;
-  opacity: 0.14;
+  right: 0.94rem;
+  bottom: 0.38rem;
+  width: auto;
+  height: clamp(22px, 2.6vw, 30px);
+  opacity: 0.16;
   filter: brightness(0.3) contrast(1.1);
   mix-blend-mode: normal;
 }
@@ -109,9 +111,11 @@
 }
 
 .pub-venue-watermark--aaai {
-  width: clamp(74px, 8.5vw, 104px);
-  bottom: 0.58rem;
-  opacity: 0.19;
+  right: 0.92rem;
+  bottom: 0.34rem;
+  width: auto;
+  height: clamp(34px, 4.1vw, 46px);
+  opacity: 0.22;
   filter: grayscale(0.12) saturate(0.72) brightness(1.08) contrast(1.03);
   mix-blend-mode: normal;
 }
@@ -294,5 +298,21 @@
     bottom: 0.72rem;
     width: 92px;
     opacity: 0.12;
+  }
+
+  .pub-venue-watermark--arxiv {
+    right: 0.78rem;
+    bottom: 0.34rem;
+    width: auto;
+    height: 24px;
+    opacity: 0.16;
+  }
+
+  .pub-venue-watermark--aaai {
+    right: 0.76rem;
+    bottom: 0.3rem;
+    width: auto;
+    height: 36px;
+    opacity: 0.22;
   }
 }
