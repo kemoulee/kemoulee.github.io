@@ -97,7 +97,7 @@
   right: 0.94rem;
   bottom: 0.4rem;
   width: auto;
-  height: clamp(26px, 3vw, 34px);
+  height: clamp(29px, 3.3vw, 38px);
   opacity: 0.16;
   filter: brightness(0.3) contrast(1.1);
   mix-blend-mode: normal;
@@ -114,7 +114,7 @@
   right: 0.92rem;
   bottom: 0.38rem;
   width: auto;
-  height: clamp(42px, 4.9vw, 56px);
+  height: clamp(46px, 5.3vw, 62px);
   opacity: 0.24;
   filter: none;
   mix-blend-mode: normal;
@@ -304,7 +304,7 @@
     right: 0.78rem;
     bottom: 0.38rem;
     width: auto;
-    height: 28px;
+    height: 31px;
     opacity: 0.16;
   }
 
@@ -312,7 +312,7 @@
     right: 0.76rem;
     bottom: 0.34rem;
     width: auto;
-    height: 42px;
+    height: 46px;
     opacity: 0.24;
   }
 }
