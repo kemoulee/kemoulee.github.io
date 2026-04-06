@@ -4,7 +4,11 @@
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
     <li class="publication-entry">
+      {% assign venue_mark = link.conference_short | split: '-' | first | downcase %}
       <article class="pub-row{% unless link.image %} pub-row--text-only{% endunless %}">
+        {% if link.conference_short %}
+        <img class="pub-venue-watermark" src="/assets/img/venue-logos/{{ venue_mark }}.svg" alt="" aria-hidden="true">
+        {% endif %}
         {% if link.image %}
         <div class="pub-media">
           <img src="{{ link.image }}" class="teaser" alt="{{ link.title | strip_html }}">

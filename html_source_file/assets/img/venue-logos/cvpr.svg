@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 120" role="img" aria-label="CVPR">
+  <g fill="#4d7db8">
+    <text x="18" y="58" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" letter-spacing="2">CVPR</text>
+    <rect x="20" y="72" width="112" height="2" rx="1" fill="#7aaee5"/>
+    <text x="20" y="96" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.6">IEEE/CVF</text>
+  </g>
+</svg>
