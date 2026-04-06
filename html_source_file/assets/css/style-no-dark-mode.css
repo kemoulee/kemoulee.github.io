@@ -574,6 +574,26 @@ h3 {
   text-justify: inter-word;
 }
 
+#about a {
+  color: var(--page-accent-deep);
+  padding: 0 0.14em;
+  margin: 0 -0.14em;
+  border-radius: 0.34em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  box-shadow: inset 0 -0.12em 0 rgba(119, 178, 235, 0.24);
+  text-decoration: none;
+  transition: color 0.22s ease, background 0.22s ease, box-shadow 0.22s ease, text-shadow 0.22s ease;
+}
+
+#about a:hover,
+#about a:focus-visible {
+  color: #1f67af;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(221, 236, 252, 0.95));
+  box-shadow: inset 0 -0.12em 0 rgba(119, 178, 235, 0.52), 0 6px 16px rgba(62, 112, 178, 0.12);
+  text-shadow: 0 0 10px rgba(119, 178, 235, 0.16);
+}
+
 #about em {
   color: #40608a;
   font-style: italic;
