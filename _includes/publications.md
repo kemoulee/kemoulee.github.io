@@ -16,7 +16,7 @@
         {% when 'tifs' %}
           {% assign venue_logo = '/assets/img/venue-logos/tifs.png' %}
         {% when 'ijcv' %}
-          {% assign venue_logo = '/assets/img/venue-logos/ijcv.webp' %}
+          {% assign venue_logo = '/assets/img/venue-logos/springer.svg' %}
         {% when 'tmm' %}
           {% assign venue_logo = '/assets/img/venue-logos/tmm.webp' %}
         {% when 'neurips' %}

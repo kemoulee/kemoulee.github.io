@@ -99,9 +99,18 @@
   mix-blend-mode: normal;
 }
 
+.pub-venue-watermark--cvpr {
+  width: clamp(108px, 12vw, 156px);
+  opacity: 0.15;
+  filter: brightness(0.34) contrast(1.08);
+  mix-blend-mode: normal;
+}
+
 .pub-venue-watermark--ijcv {
-  width: clamp(72px, 8.5vw, 102px);
-  opacity: 0.12;
+  width: clamp(92px, 10.8vw, 134px);
+  opacity: 0.15;
+  filter: brightness(0.34) contrast(1.08);
+  mix-blend-mode: normal;
 }
 
 .pub-venue-watermark--tifs,
