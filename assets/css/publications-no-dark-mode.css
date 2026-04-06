@@ -95,9 +95,9 @@
 
 .pub-venue-watermark--arxiv {
   right: 0.94rem;
-  bottom: 0.38rem;
+  bottom: 0.4rem;
   width: auto;
-  height: clamp(22px, 2.6vw, 30px);
+  height: clamp(26px, 3vw, 34px);
   opacity: 0.16;
   filter: brightness(0.3) contrast(1.1);
   mix-blend-mode: normal;
@@ -112,11 +112,11 @@
 
 .pub-venue-watermark--aaai {
   right: 0.92rem;
-  bottom: 0.34rem;
+  bottom: 0.38rem;
   width: auto;
-  height: clamp(34px, 4.1vw, 46px);
-  opacity: 0.22;
-  filter: grayscale(0.12) saturate(0.72) brightness(1.08) contrast(1.03);
+  height: clamp(42px, 4.9vw, 56px);
+  opacity: 0.24;
+  filter: none;
   mix-blend-mode: normal;
 }
 
@@ -302,17 +302,17 @@
 
   .pub-venue-watermark--arxiv {
     right: 0.78rem;
-    bottom: 0.34rem;
+    bottom: 0.38rem;
     width: auto;
-    height: 24px;
+    height: 28px;
     opacity: 0.16;
   }
 
   .pub-venue-watermark--aaai {
     right: 0.76rem;
-    bottom: 0.3rem;
+    bottom: 0.34rem;
     width: auto;
-    height: 36px;
-    opacity: 0.22;
+    height: 42px;
+    opacity: 0.24;
   }
 }
