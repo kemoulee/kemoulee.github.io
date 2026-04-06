@@ -861,6 +861,7 @@ h3 {
   position: relative;
   overflow: hidden;
   display: grid;
+  justify-items: start;
   gap: 0.5rem;
   padding: 1.15rem 1.15rem 1.08rem;
   border: 1px solid rgba(255, 255, 255, 0.94);
@@ -891,14 +892,14 @@ h3 {
 
 .teaching-shell__logo {
   position: absolute;
-  top: 0.85rem;
-  right: 0.9rem;
-  width: clamp(78px, 6vw, 96px);
+  top: 0.62rem;
+  right: 0.62rem;
+  width: clamp(70px, 5.2vw, 84px);
   height: auto;
-  opacity: 0.22;
+  opacity: 0.28;
   object-fit: contain;
   pointer-events: none;
-  filter: grayscale(100%) saturate(0) brightness(1.02) contrast(0.98);
+  filter: grayscale(100%) saturate(0) brightness(0.98) contrast(1.06);
   z-index: 0;
 }
 
@@ -907,8 +908,9 @@ h3 {
   color: var(--page-text);
   font-size: 0.93rem;
   line-height: 1.58;
-  max-width: 16.6rem;
-  text-align: left;
+  max-width: none;
+  text-align: left !important;
+  text-justify: auto;
 }
 
 .teaching-grid {
@@ -1007,9 +1009,9 @@ footer {
   }
 
   .teaching-shell__logo {
-    top: 0.85rem;
-    right: 0.9rem;
-    width: 88px;
+    top: 0.62rem;
+    right: 0.62rem;
+    width: 78px;
   }
 }
 
@@ -1044,9 +1046,9 @@ footer {
   }
 
   .teaching-shell__logo {
-    top: 0.8rem;
-    right: 0.8rem;
-    width: 76px;
+    top: 0.58rem;
+    right: 0.58rem;
+    width: 70px;
   }
 
   .teaching-shell__intro {
