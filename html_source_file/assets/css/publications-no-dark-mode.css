@@ -1,10 +1,10 @@
 :root {
-  --global-text-color: #455a70;
-  --global-text-color-light: #7a8899;
-  --global-theme-color: #5e7fa9;
-  --global-theme-color-deep: #446487;
-  --global-theme-color-alt: #89a9cb;
-  --global-hover-color: #dde5ee;
+  --global-text-color: #405a76;
+  --global-text-color-light: #7487a0;
+  --global-theme-color: #547cad;
+  --global-theme-color-deep: #376493;
+  --global-theme-color-alt: #83a8d4;
+  --global-hover-color: #d9e5f2;
 }
 
 .publications {
@@ -103,12 +103,12 @@
   padding: 0.38rem 0.72rem;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.88);
-  background: linear-gradient(145deg, rgba(255, 255, 255, 0.82), rgba(236, 241, 246, 0.92) 46%, rgba(221, 229, 238, 0.9) 72%, rgba(210, 222, 236, 0.86));
-  color: #4d6789 !important;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.82), rgba(236, 241, 247, 0.9) 46%, rgba(221, 230, 241, 0.88) 72%, rgba(213, 225, 239, 0.84));
+  color: #466c99 !important;
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.02em;
-  box-shadow: 0 12px 24px rgba(88, 103, 124, 0.14), inset 0 1px 0 rgba(255, 255, 255, 0.92), inset 0 -1px 0 rgba(191, 203, 217, 0.32);
+  box-shadow: 0 12px 24px rgba(77, 98, 126, 0.14), inset 0 1px 0 rgba(255, 255, 255, 0.92), inset 0 -1px 0 rgba(191, 205, 223, 0.32);
   backdrop-filter: blur(12px) saturate(150%);
 }
 
@@ -215,8 +215,8 @@
 }
 
 .publications .pub-badge.pub-badge--note {
-  border-color: #1f4c85;
-  background: linear-gradient(135deg, #174ac4, #2f6df6);
+  border-color: #547cad;
+  background: linear-gradient(135deg, #4b74a6, #7d9fc6);
   color: #fff;
 }
 

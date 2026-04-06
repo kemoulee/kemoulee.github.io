@@ -1,26 +1,27 @@
 .awards .pub-badge.pub-badge--link {
-  border-color: #2f6df6;
-  color: #2f6df6;
+  border-color: #547cad;
+  color: #547cad;
 }
 
 .awards .pub-badge.pub-badge--link:hover {
-  background: linear-gradient(135deg, #2f6df6, #66a8ff);
+  background: linear-gradient(135deg, #547cad, #83a8d4);
   color: #fff;
 }
 
 .awards .pub-badge.pub-badge--news {
-  border-color: rgba(220, 228, 239, 0.96);
-  color: #174ac4;
-  background: linear-gradient(135deg, rgba(244, 247, 251, 0.96), rgba(233, 248, 255, 0.88));
+  border-color: rgba(255, 255, 255, 0.88);
+  color: #376493;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.8), rgba(242, 246, 250, 0.76), rgba(232, 239, 246, 0.72));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.84);
 }
 
 .awards .pub-badge.pub-badge--news:hover {
-  background: linear-gradient(135deg, #2f6df6, #66a8ff);
+  background: linear-gradient(135deg, #547cad, #83a8d4);
   color: #fff;
 }
 
 .awards .award-champion {
-  color: #174ac4;
+  color: #376493;
   font-weight: 700;
 }
 
