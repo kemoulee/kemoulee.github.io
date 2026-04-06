@@ -94,6 +94,8 @@
 }
 
 .pub-venue-watermark--arxiv {
+  width: clamp(78px, 8.9vw, 116px);
+  bottom: 0.62rem;
   opacity: 0.14;
   filter: brightness(0.3) contrast(1.1);
   mix-blend-mode: normal;
@@ -107,10 +109,11 @@
 }
 
 .pub-venue-watermark--aaai {
-  width: clamp(84px, 9.3vw, 118px);
-  opacity: 0.15;
-  filter: grayscale(0.24) saturate(0.52) brightness(1.08) contrast(1.04);
-  mix-blend-mode: screen;
+  width: clamp(74px, 8.5vw, 104px);
+  bottom: 0.58rem;
+  opacity: 0.19;
+  filter: grayscale(0.12) saturate(0.72) brightness(1.08) contrast(1.03);
+  mix-blend-mode: normal;
 }
 
 .pub-venue-watermark--ijcv {

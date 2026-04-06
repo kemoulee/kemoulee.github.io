@@ -22,7 +22,7 @@
         {% when 'neurips' %}
           {% assign venue_logo = '/assets/img/venue-logos/neurips.svg' %}
         {% when 'aaai' %}
-          {% assign venue_logo = '/assets/img/venue-logos/aaai.png' %}
+          {% assign venue_logo = '/assets/img/venue-logos/aaai-watermark.png' %}
       {% endcase %}
       <article class="pub-row{% unless link.image %} pub-row--text-only{% endunless %}">
         {% if venue_logo %}
