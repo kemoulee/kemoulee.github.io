@@ -5,9 +5,28 @@
     {% for link in site.data.publications.main %}
     <li class="publication-entry">
       {% assign venue_mark = link.conference_short | split: '-' | first | downcase %}
+      {% assign venue_logo = nil %}
+      {% case venue_mark %}
+        {% when 'arxiv' %}
+          {% assign venue_logo = '/assets/img/venue-logos/arxiv.svg' %}
+        {% when 'cvpr' %}
+          {% assign venue_logo = '/assets/img/venue-logos/cvpr.svg' %}
+        {% when 'iclr' %}
+          {% assign venue_logo = '/assets/img/venue-logos/iclr.svg' %}
+        {% when 'tifs' %}
+          {% assign venue_logo = '/assets/img/venue-logos/tifs.png' %}
+        {% when 'ijcv' %}
+          {% assign venue_logo = '/assets/img/venue-logos/ijcv.webp' %}
+        {% when 'tmm' %}
+          {% assign venue_logo = '/assets/img/venue-logos/tmm.webp' %}
+        {% when 'neurips' %}
+          {% assign venue_logo = '/assets/img/venue-logos/neurips.svg' %}
+        {% when 'aaai' %}
+          {% assign venue_logo = '/assets/img/venue-logos/aaai.png' %}
+      {% endcase %}
       <article class="pub-row{% unless link.image %} pub-row--text-only{% endunless %}">
-        {% if link.conference_short %}
-        <img class="pub-venue-watermark" src="/assets/img/venue-logos/{{ venue_mark }}.svg" alt="" aria-hidden="true">
+        {% if venue_logo %}
+        <img class="pub-venue-watermark pub-venue-watermark--{{ venue_mark }}" src="{{ venue_logo }}" alt="" aria-hidden="true">
         {% endif %}
         {% if link.image %}
         <div class="pub-media">

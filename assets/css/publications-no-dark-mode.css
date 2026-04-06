@@ -84,12 +84,30 @@
   bottom: 0.82rem;
   width: clamp(88px, 10vw, 132px);
   height: auto;
-  opacity: 0.14;
+  opacity: 0.17;
   object-fit: contain;
   pointer-events: none;
-  filter: grayscale(100%) saturate(0) brightness(0.98) contrast(1.05);
+  filter: none;
+  mix-blend-mode: multiply;
   z-index: 0;
   user-select: none;
+}
+
+.pub-venue-watermark--arxiv {
+  opacity: 0.14;
+  filter: brightness(0.3) contrast(1.1);
+  mix-blend-mode: normal;
+}
+
+.pub-venue-watermark--ijcv {
+  width: clamp(72px, 8.5vw, 102px);
+  opacity: 0.12;
+}
+
+.pub-venue-watermark--tifs,
+.pub-venue-watermark--tmm {
+  width: clamp(96px, 11vw, 140px);
+  opacity: 0.15;
 }
 
 .pub-media {
