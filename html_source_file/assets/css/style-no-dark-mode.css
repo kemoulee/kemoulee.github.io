@@ -893,12 +893,12 @@ h3 {
   position: absolute;
   top: 0.85rem;
   right: 0.9rem;
-  width: clamp(92px, 7vw, 112px);
+  width: clamp(78px, 6vw, 96px);
   height: auto;
-  opacity: 0.16;
+  opacity: 0.22;
   object-fit: contain;
   pointer-events: none;
-  filter: grayscale(100%) saturate(0) brightness(1.05) contrast(0.96);
+  filter: grayscale(100%) saturate(0) brightness(1.02) contrast(0.98);
   z-index: 0;
 }
 
@@ -908,8 +908,7 @@ h3 {
   font-size: 0.93rem;
   line-height: 1.58;
   max-width: 16.6rem;
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: left;
 }
 
 .teaching-grid {
@@ -1010,7 +1009,7 @@ footer {
   .teaching-shell__logo {
     top: 0.85rem;
     right: 0.9rem;
-    width: 100px;
+    width: 88px;
   }
 }
 
@@ -1047,7 +1046,7 @@ footer {
   .teaching-shell__logo {
     top: 0.8rem;
     right: 0.8rem;
-    width: 88px;
+    width: 76px;
   }
 
   .teaching-shell__intro {
