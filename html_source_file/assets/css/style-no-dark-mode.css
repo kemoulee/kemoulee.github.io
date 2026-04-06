@@ -3,23 +3,23 @@
 :root {
   --page-font-sans: "Suisse Int'l", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --page-font-mono: "Suisse Int'l Mono", "IBM Plex Mono", "SFMono-Regular", "Ubuntu Mono", monospace;
-  --page-bg: #edf3fb;
+  --page-bg: #eef2f6;
   --page-glass-white: rgba(255, 255, 255, 0.76);
   --page-glass-silver: rgba(233, 240, 247, 0.72);
   --page-glass-stroke: rgba(255, 255, 255, 0.88);
   --page-panel: rgba(255, 255, 255, 0.72);
   --page-panel-strong: rgba(255, 255, 255, 0.9);
-  --page-line: rgba(201, 216, 236, 0.72);
-  --page-line-strong: rgba(176, 197, 225, 0.9);
-  --page-heading: #16324f;
-  --page-text: #35506f;
-  --page-text-soft: #7086a3;
-  --page-accent: #2f6df6;
-  --page-accent-deep: #174ac4;
-  --page-accent-alt: #66a8ff;
-  --page-accent-teal: #7bb9ca;
-  --page-accent-mist: #d8e7fb;
-  --page-accent-steel: #7b8ea9;
+  --page-line: rgba(206, 215, 227, 0.72);
+  --page-line-strong: rgba(185, 198, 213, 0.88);
+  --page-heading: #21384f;
+  --page-text: #455a70;
+  --page-text-soft: #7a8899;
+  --page-accent: #5e7fa9;
+  --page-accent-deep: #446487;
+  --page-accent-alt: #89a9cb;
+  --page-accent-teal: #96aebb;
+  --page-accent-mist: #dde5ee;
+  --page-accent-steel: #8794a3;
   --page-silver: #f2f5f9;
   --page-silver-strong: #dde5ee;
   --page-silver-deep: #b0bccb;
@@ -46,14 +46,14 @@ body {
   margin: 0;
   padding: 28px 24px 44px;
   background:
-    radial-gradient(circle at 16% 14%, rgba(242, 246, 250, 0.86), transparent 21%),
-    radial-gradient(circle at top left, rgba(118, 164, 245, 0.24), transparent 28%),
-    radial-gradient(circle at 92% 8%, rgba(127, 182, 211, 0.22), transparent 23%),
-    radial-gradient(circle at 88% 16%, rgba(242, 246, 250, 0.74), transparent 20%),
-    radial-gradient(circle at 65% 100%, rgba(200, 222, 255, 0.18), transparent 24%),
-    radial-gradient(circle at 20% 82%, rgba(214, 230, 245, 0.18), transparent 18%),
-    radial-gradient(circle at 84% 72%, rgba(235, 240, 247, 0.66), transparent 16%),
-    linear-gradient(180deg, #edf2f7 0%, #f8fafc 46%, #eef3fb 100%);
+    radial-gradient(circle at 16% 14%, rgba(244, 247, 250, 0.84), transparent 21%),
+    radial-gradient(circle at top left, rgba(152, 175, 206, 0.14), transparent 28%),
+    radial-gradient(circle at 92% 8%, rgba(160, 182, 194, 0.14), transparent 23%),
+    radial-gradient(circle at 88% 16%, rgba(242, 246, 250, 0.72), transparent 20%),
+    radial-gradient(circle at 65% 100%, rgba(211, 223, 234, 0.16), transparent 24%),
+    radial-gradient(circle at 20% 82%, rgba(220, 230, 239, 0.16), transparent 18%),
+    radial-gradient(circle at 84% 72%, rgba(236, 240, 245, 0.64), transparent 16%),
+    linear-gradient(180deg, #eef2f5 0%, #f8f9fb 46%, #eef2f6 100%);
   color: var(--page-text);
   font: 16.3px/1.72 var(--page-font-sans);
   -webkit-font-smoothing: antialiased;
@@ -67,7 +67,7 @@ body::before {
   width: 280px;
   height: 280px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(225, 232, 241, 0.72), rgba(68, 140, 232, 0.12), transparent 72%);
+  background: radial-gradient(circle, rgba(227, 233, 239, 0.74), rgba(134, 158, 189, 0.1), transparent 72%);
   pointer-events: none;
   filter: blur(4px);
 }
@@ -80,7 +80,7 @@ body::after {
   width: 320px;
   height: 320px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(249, 251, 253, 0.86), rgba(217, 226, 236, 0.34), rgba(111, 136, 184, 0.08), transparent 72%);
+  background: radial-gradient(circle, rgba(249, 251, 253, 0.86), rgba(221, 228, 235, 0.34), rgba(148, 163, 183, 0.07), transparent 72%);
   pointer-events: none;
   filter: blur(10px);
 }
@@ -401,10 +401,10 @@ h3 {
 
 .social-icons a:hover {
   border-color: rgba(255, 255, 255, 0.9);
-  background: linear-gradient(135deg, rgba(47, 109, 246, 0.95), rgba(102, 168, 255, 0.92));
+  background: linear-gradient(135deg, rgba(100, 127, 162, 0.94), rgba(144, 169, 201, 0.9));
   color: #fff !important;
   transform: translateY(-1px) scale(1.02);
-  box-shadow: 0 14px 28px rgba(35, 83, 184, 0.18);
+  box-shadow: 0 14px 28px rgba(80, 102, 132, 0.18);
 }
 
 .content-column {
@@ -454,10 +454,10 @@ h3 {
 }
 
 .page-nav a:hover {
-  background: linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(236, 244, 255, 0.92));
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(238, 242, 247, 0.94));
   color: var(--page-accent-deep);
   transform: translateY(-1px);
-  box-shadow: 0 10px 24px rgba(41, 78, 136, 0.08);
+  box-shadow: 0 10px 24px rgba(76, 95, 121, 0.08);
 }
 
 .content-stack {
