@@ -146,14 +146,14 @@
 .publications .author {
   font-size: 0.955rem;
   line-height: 1.46;
-  font-weight: 500;
+  font-weight: 450;
 }
 
 .publications .periodical {
   color: var(--global-text-color-light);
   font-size: 0.92rem;
   line-height: 1.38;
-  font-weight: 500;
+  font-weight: 450;
 }
 
 .publications .links {

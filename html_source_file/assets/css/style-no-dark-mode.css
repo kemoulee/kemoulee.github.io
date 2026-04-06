@@ -56,7 +56,7 @@ body {
     linear-gradient(180deg, #edf3f9 0%, #f8f9fb 46%, #edf4fb 100%);
   color: var(--page-text);
   font: 16.3px/1.72 var(--page-font-sans);
-  font-weight: 500;
+  font-weight: 450;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -118,7 +118,7 @@ td,
 .teaching-shell__intro p:last-child,
 .teaching-card p,
 .course-term {
-  font-weight: 500;
+  font-weight: 450;
 }
 
 strong {
@@ -943,12 +943,20 @@ footer {
     padding: 18px 16px 34px;
   }
 
+  body::after {
+    display: none;
+  }
+
   .wrapper {
     grid-template-columns: 1fr;
   }
 
   .site-sidebar {
     position: static;
+  }
+
+  .profile-card::before {
+    display: none;
   }
 
   .page-nav {
