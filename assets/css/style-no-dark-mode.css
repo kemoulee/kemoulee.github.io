@@ -3,23 +3,23 @@
 :root {
   --page-font-sans: "Suisse Int'l", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --page-font-mono: "Suisse Int'l Mono", "IBM Plex Mono", "SFMono-Regular", "Ubuntu Mono", monospace;
-  --page-bg: #edf1f7;
+  --page-bg: #edf2f9;
   --page-glass-white: rgba(255, 255, 255, 0.76);
   --page-glass-silver: rgba(233, 240, 247, 0.72);
   --page-glass-stroke: rgba(255, 255, 255, 0.88);
   --page-panel: rgba(255, 255, 255, 0.72);
   --page-panel-strong: rgba(255, 255, 255, 0.9);
-  --page-line: rgba(197, 214, 235, 0.76);
-  --page-line-strong: rgba(170, 193, 221, 0.9);
-  --page-heading: #18385d;
-  --page-text: #395977;
-  --page-text-soft: #6d85a4;
-  --page-accent: #4f7fb8;
-  --page-accent-deep: #2f649e;
-  --page-accent-alt: #7ea9dc;
-  --page-accent-teal: #88b6c8;
-  --page-accent-mist: #d7e7f8;
-  --page-accent-steel: #7695b8;
+  --page-line: rgba(193, 214, 238, 0.78);
+  --page-line-strong: rgba(163, 190, 224, 0.9);
+  --page-heading: #173a63;
+  --page-text: #355b7c;
+  --page-text-soft: #6786aa;
+  --page-accent: #4a80bf;
+  --page-accent-deep: #2a66a8;
+  --page-accent-alt: #7aaee5;
+  --page-accent-teal: #82b7ce;
+  --page-accent-mist: #d5e8fb;
+  --page-accent-steel: #7096c0;
   --page-silver: #f2f5f9;
   --page-silver-strong: #dde5ee;
   --page-silver-deep: #b0bccb;
@@ -47,13 +47,13 @@ body {
   padding: 28px 24px 44px;
   background:
     radial-gradient(circle at 16% 14%, rgba(244, 247, 250, 0.84), transparent 21%),
-    radial-gradient(circle at top left, rgba(119, 159, 216, 0.2), transparent 28%),
-    radial-gradient(circle at 92% 8%, rgba(135, 176, 214, 0.18), transparent 23%),
+    radial-gradient(circle at top left, rgba(110, 158, 223, 0.22), transparent 28%),
+    radial-gradient(circle at 92% 8%, rgba(127, 177, 222, 0.2), transparent 23%),
     radial-gradient(circle at 88% 16%, rgba(242, 246, 250, 0.72), transparent 20%),
-    radial-gradient(circle at 65% 100%, rgba(196, 219, 242, 0.2), transparent 24%),
-    radial-gradient(circle at 20% 82%, rgba(207, 225, 244, 0.19), transparent 18%),
+    radial-gradient(circle at 65% 100%, rgba(189, 218, 246, 0.22), transparent 24%),
+    radial-gradient(circle at 20% 82%, rgba(199, 223, 247, 0.21), transparent 18%),
     radial-gradient(circle at 84% 72%, rgba(236, 240, 245, 0.64), transparent 16%),
-    linear-gradient(180deg, #edf2f7 0%, #f8f9fb 46%, #edf2f8 100%);
+    linear-gradient(180deg, #edf2f8 0%, #f8f9fb 46%, #edf3f9 100%);
   color: var(--page-text);
   font: 16.3px/1.72 var(--page-font-sans);
   -webkit-font-smoothing: antialiased;
@@ -67,7 +67,7 @@ body::before {
   width: 280px;
   height: 280px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(227, 233, 239, 0.74), rgba(97, 141, 199, 0.14), transparent 72%);
+  background: radial-gradient(circle, rgba(227, 233, 239, 0.74), rgba(88, 140, 208, 0.16), transparent 72%);
   pointer-events: none;
   filter: blur(4px);
 }
@@ -80,7 +80,7 @@ body::after {
   width: 320px;
   height: 320px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(249, 251, 253, 0.86), rgba(221, 228, 235, 0.34), rgba(120, 154, 207, 0.1), transparent 72%);
+  background: radial-gradient(circle, rgba(249, 251, 253, 0.86), rgba(221, 228, 235, 0.34), rgba(111, 153, 216, 0.12), transparent 72%);
   pointer-events: none;
   filter: blur(10px);
 }
@@ -401,10 +401,10 @@ h3 {
 
 .social-icons a:hover {
   border-color: rgba(255, 255, 255, 0.9);
-  background: linear-gradient(135deg, rgba(79, 127, 184, 0.94), rgba(126, 169, 220, 0.9));
+  background: linear-gradient(135deg, rgba(74, 128, 191, 0.95), rgba(122, 174, 229, 0.92));
   color: #fff !important;
   transform: translateY(-1px) scale(1.02);
-  box-shadow: 0 14px 28px rgba(51, 97, 154, 0.19);
+  box-shadow: 0 14px 28px rgba(42, 100, 165, 0.2);
 }
 
 .content-column {

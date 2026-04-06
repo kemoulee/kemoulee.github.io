@@ -1,10 +1,10 @@
 :root {
-  --global-text-color: #395977;
-  --global-text-color-light: #6d85a4;
-  --global-theme-color: #4f7fb8;
-  --global-theme-color-deep: #2f649e;
-  --global-theme-color-alt: #7ea9dc;
-  --global-hover-color: #d7e7f8;
+  --global-text-color: #355b7c;
+  --global-text-color-light: #6786aa;
+  --global-theme-color: #4a80bf;
+  --global-theme-color-deep: #2a66a8;
+  --global-theme-color-alt: #7aaee5;
+  --global-hover-color: #d5e8fb;
 }
 
 .publications {
@@ -104,7 +104,7 @@
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.88);
   background: linear-gradient(145deg, rgba(255, 255, 255, 0.82), rgba(236, 241, 247, 0.9) 46%, rgba(221, 230, 241, 0.88) 72%, rgba(213, 225, 239, 0.84));
-  color: #4270a8 !important;
+  color: #3d75b6 !important;
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.02em;
@@ -215,8 +215,8 @@
 }
 
 .publications .pub-badge.pub-badge--note {
-  border-color: #4f7fb8;
-  background: linear-gradient(135deg, #4674ab, #7ca7da);
+  border-color: #4a80bf;
+  background: linear-gradient(135deg, #4279b8, #77ace3);
   color: #fff;
 }
 
