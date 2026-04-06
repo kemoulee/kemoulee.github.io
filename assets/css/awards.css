@@ -28,3 +28,22 @@
 .awards .award-champion i {
   margin-right: 0.25em;
 }
+
+.awards .award-venue-watermark {
+  right: 0.96rem;
+  bottom: 0.8rem;
+  width: clamp(96px, 10.8vw, 138px);
+  opacity: 0.15;
+}
+
+.awards .pub-venue-watermark--cvpr {
+  width: clamp(108px, 12vw, 156px);
+  opacity: 0.15;
+}
+
+.awards .pub-venue-watermark--inclusion {
+  width: clamp(92px, 10.2vw, 132px);
+  opacity: 0.16;
+  filter: brightness(0.34) contrast(1.06);
+  mix-blend-mode: normal;
+}

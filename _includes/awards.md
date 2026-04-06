@@ -4,7 +4,19 @@
   <ol class="bibliography">
     {% for award in site.data.awards.main %}
     <li class="publication-entry">
+      {% assign award_mark = nil %}
+      {% assign award_logo = nil %}
+      {% if award.title contains 'NTIRE' %}
+        {% assign award_mark = 'cvpr' %}
+        {% assign award_logo = '/assets/img/venue-logos/cvpr.svg' %}
+      {% elsif award.title contains 'Inclusion' %}
+        {% assign award_mark = 'inclusion' %}
+        {% assign award_logo = '/assets/img/venue-logos/inclusion.png' %}
+      {% endif %}
       <article class="pub-row{% unless award.image %} pub-row--text-only{% endunless %}">
+        {% if award_logo %}
+        <img class="pub-venue-watermark award-venue-watermark pub-venue-watermark--{{ award_mark }}" src="{{ award_logo }}" alt="" aria-hidden="true">
+        {% endif %}
         {% if award.image %}
         <div class="pub-media">
           <img src="{{ award.image }}" class="teaser" alt="{{ award.title }}">

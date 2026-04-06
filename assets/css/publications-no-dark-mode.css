@@ -106,6 +106,13 @@
   mix-blend-mode: normal;
 }
 
+.pub-venue-watermark--aaai {
+  width: clamp(84px, 9.3vw, 118px);
+  opacity: 0.15;
+  filter: grayscale(0.24) saturate(0.52) brightness(1.08) contrast(1.04);
+  mix-blend-mode: screen;
+}
+
 .pub-venue-watermark--ijcv {
   width: clamp(92px, 10.8vw, 134px);
   opacity: 0.15;
