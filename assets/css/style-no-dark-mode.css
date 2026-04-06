@@ -876,7 +876,6 @@ h3 {
 }
 
 .teaching-shell__intro .feature-eyebrow {
-  width: fit-content;
   color: var(--page-text-soft);
   font-size: 0.8rem;
   font-weight: 600;
@@ -894,9 +893,9 @@ h3 {
   position: absolute;
   top: 0.85rem;
   right: 0.9rem;
-  width: clamp(116px, 8.8vw, 144px);
+  width: clamp(92px, 7vw, 112px);
   height: auto;
-  opacity: 0.18;
+  opacity: 0.16;
   object-fit: contain;
   pointer-events: none;
   filter: grayscale(100%) saturate(0) brightness(1.05) contrast(0.96);
@@ -1011,7 +1010,7 @@ footer {
   .teaching-shell__logo {
     top: 0.85rem;
     right: 0.9rem;
-    width: 128px;
+    width: 100px;
   }
 }
 
@@ -1048,7 +1047,7 @@ footer {
   .teaching-shell__logo {
     top: 0.8rem;
     right: 0.8rem;
-    width: 112px;
+    width: 88px;
   }
 
   .teaching-shell__intro {
