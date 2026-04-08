@@ -10,7 +10,7 @@ I am Kemou Li, currently a second-year PhD student in Computer Science at [State
 I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. I am always open to collaboration or exchanging ideas on related topics.
 
 <div class="about-callout">
-  <p class="about-callout__text">I am open to visiting PhD / researcher opportunities. Please feel free to contact me about any potential openings :)</p>
+  <p class="about-callout__text">I am looking for visiting PhD / researcher opportunities. Please feel free to contact me about any potential openings :)</p>
 </div>
 </section>
 
@@ -19,16 +19,16 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 
 <div class="recent-news-scroll" markdown="1">
 
-- **[2026-03]** Our team wins 6th place (6/511) at the NTIRE @ CVPR 2026 Robust AI-Generated Image Detection in the Wild Challenge.
+- **[2026-03]** Our team wins the 6th place (6/511) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
 - **[2026-02]** One paper on image forensics is accepted to CVPR 2026. See you in Denver!
 - **[2026-01]** Two papers on LLM unlearning and diffusion model concept erasure are accepted to ICLR 2026. See you in Rio de Janeiro!
 - **[2025-06]** One paper on adversarial training is accepted to IEEE TIFS.
-- **[2025-06]** I passed my PhD qualifying exam.
+- **[2025-06]** I pass my PhD qualifying exam.
 - **[2025-05]** One paper on learning with noisy labels is accepted to IJCV.
 - **[2025-02]** One paper on font watermarking is accepted to IEEE TMM.
 - **[2024-09]** One paper on adversarial training is accepted to NeurIPS 2024.
 - **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
-- **[2024-08]** I started my PhD journey at the University of Macau.
+- **[2024-08]** I start my PhD journey at the University of Macau.
 - **[2023-12]** One paper on learning with noisy labels is accepted to AAAI 2024 Oral (Top 2.2%).
 
 </div>
