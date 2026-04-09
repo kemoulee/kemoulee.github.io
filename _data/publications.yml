@@ -14,7 +14,7 @@ main:
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
     badges: ["CCF A"]
     # pdf: https://openreview.net/forum?id=qCfYOLAzti
-    # code: https://github.com/Feng-peng-Li/CoFAT
+    code: https://github.com/HighwayWu/Editprint
     image: ./assets/img/Editprint.jpg
     notes: Highlight
 
