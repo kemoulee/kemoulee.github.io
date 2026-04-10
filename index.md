@@ -30,7 +30,7 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 - **[2024-09]** One paper on adversarial training accepted to NeurIPS 2024.
 - **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
 - **[2024-08]** Start my PhD journey at the University of Macau.
-- **[2023-12]** One paper on learning with noisy labels accepted to AAAI 2024 Oral (Top 2.2%).
+- **[2023-12]** One paper on learning with noisy labels accepted to AAAI 2024 Oral (2.2%).
 
 </div>
 </section>
