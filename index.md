@@ -26,7 +26,7 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 - **[2025-06]** Pass my PhD qualifying exam.
 - **[2025-05]** One paper on learning with noisy labels accepted to IJCV.
 - **[2025-02]** One paper on font watermarking accepted to IEEE TMM.
-- **[2025-01]** Start my remote research at TMLR Group with Dr. Qizhou Wang and Prof. Bo Han.
+- **[2025-01]** Start remote research at TMLR Group with Dr. Qizhou Wang and Prof. Bo Han.
 - **[2024-09]** One paper on adversarial training accepted to NeurIPS 2024.
 - **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
 - **[2024-08]** Start my PhD journey at the University of Macau.
