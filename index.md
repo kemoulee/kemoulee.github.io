@@ -10,6 +10,9 @@ I am Kemou Li, currently a second-year PhD student in Computer Science at [State
 I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. I am always open to collaboration or exchanging ideas on related topics.
 
 <div class="about-callout">
+  <span class="about-callout__icon" aria-hidden="true">
+    <i class="fa-solid fa-thumbtack"></i>
+  </span>
   <p class="about-callout__text">I am looking for visiting PhD opportunity. Please feel free to contact me about any potential openings :)</p>
 </div>
 </section>
