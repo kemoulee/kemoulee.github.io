@@ -22,18 +22,18 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 
 <div class="recent-news-scroll" markdown="1">
 
-- **[2026-03]** Our team wins the 6th place (6/511) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
-- **[2026-02]** One paper on image forensics accepted to CVPR 2026 Highlight. See you in Denver!
-- **[2026-01]** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio de Janeiro!
-- **[2025-06]** One paper on adversarial training accepted to IEEE TIFS.
-- **[2025-06]** Pass my PhD qualifying exam.
-- **[2025-05]** One paper on learning with noisy labels accepted to IJCV.
-- **[2025-02]** One paper on font watermarking accepted to IEEE TMM.
-- **[2025-01]** Start remote research at TMLR Group with Dr. Qizhou Wang and Prof. Bo Han.
-- **[2024-09]** One paper on adversarial training accepted to NeurIPS 2024.
-- **[2024-09]** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
-- **[2024-08]** Start my PhD journey at the University of Macau.
-- **[2023-12]** One paper on learning with noisy labels accepted to AAAI 2024 Oral (2.2%).
+- **2026-03** Our team wins the 6th place (6/511) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
+- **2026-02** One paper on image forensics accepted to CVPR 2026 Highlight. See you in Denver!
+- **2026-01** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio de Janeiro!
+- **2025-06** One paper on adversarial training accepted to IEEE TIFS.
+- **2025-06** Pass my PhD qualifying exam.
+- **2025-05** One paper on learning with noisy labels accepted to IJCV.
+- **2025-02** One paper on font watermarking accepted to IEEE TMM.
+- **2025-01** Start remote research at TMLR Group with Dr. Qizhou Wang and Prof. Bo Han.
+- **2024-09** One paper on adversarial training accepted to NeurIPS 2024.
+- **2024-09** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
+- **2024-08** Start my PhD journey at the University of Macau.
+- **2023-12** One paper on learning with noisy labels accepted to AAAI 2024 Oral (2.2%).
 
 </div>
 </section>
