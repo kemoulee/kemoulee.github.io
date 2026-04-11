@@ -737,9 +737,9 @@ h3 {
 
 .recent-news-scroll li {
   position: relative;
-  padding: 0.72rem 0.78rem 0.74rem;
+  padding: 0.56rem 0.74rem 0.58rem;
   font-size: 0.92rem;
-  line-height: 1.46;
+  line-height: 1.42;
 }
 
 .recent-news-scroll li + li {
@@ -747,7 +747,7 @@ h3 {
 }
 
 .recent-news-scroll li:not(:last-child) {
-  border-bottom: 1px dashed rgba(132, 171, 214, 0.58);
+  border-bottom: 1px dashed rgba(132, 171, 214, 0.32);
 }
 
 .recent-news-scroll li::before {
@@ -755,20 +755,20 @@ h3 {
 }
 
 .recent-news-scroll strong {
-  display: inline-flex;
-  align-items: center;
-  margin-right: 0.38rem;
-  margin-bottom: 0.08rem;
-  padding: 0.1rem 0.42rem 0.14rem;
-  border: 1px solid rgba(196, 217, 242, 0.96);
-  border-radius: 999px;
-  background: linear-gradient(145deg, rgba(244, 248, 253, 0.98), rgba(230, 240, 252, 0.94));
+  display: inline-block;
+  margin-right: 0.34rem;
+  margin-bottom: 0.02rem;
+  padding: 0.08rem 0.34rem 0.1rem;
+  border: 1px solid rgba(179, 201, 229, 0.78);
+  border-radius: 0.5rem;
+  background: rgba(241, 246, 252, 0.82);
   color: var(--page-accent-deep);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.94), 0 4px 10px rgba(82, 126, 185, 0.08);
-  font-size: 0.67rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  line-height: 1.1;
+  box-shadow: none;
+  font-size: 0.63rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  line-height: 1.05;
+  font-variant-numeric: tabular-nums;
 }
 
 .recent-news-scroll::-webkit-scrollbar {
@@ -1123,7 +1123,7 @@ footer {
   }
 
   .recent-news-scroll li {
-    padding: 0.68rem 0.64rem 0.7rem;
+    padding: 0.54rem 0.6rem 0.56rem;
   }
 }
 
