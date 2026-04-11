@@ -29,8 +29,8 @@ wechat: ./assets/img/wechat_qr.png
 # Images
 avatar: ./assets/img/photo2.jpg
 avatar_back: ./assets/img/never_enough.jpg
-favicon: ./assets/img/ghibli.png
-favicon_dark: ./assets/img/ghibli.png
+favicon: ./assets/img/tou.png
+favicon_dark: ./assets/img/tou.png
 
 # Footnote
 enable_footnote: true
