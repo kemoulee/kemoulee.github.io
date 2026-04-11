@@ -16,11 +16,12 @@
   <article class="feature-card">
     <h3>Conference Reviewer</h3>
     <div class="chip-list">
-      <span class="info-chip">NeurIPS 2025</span>
+      <span class="info-chip">NeurIPS 2025-2026</span>
       <span class="info-chip">ICLR 2026</span>
       <span class="info-chip">ICML 2026</span>
       <span class="info-chip">CVPR 2026</span>
       <span class="info-chip">ECCV 2026</span>
+      <span class="info-chip">ACM MM 2026</span>
       <span class="info-chip">APSIPA ASC 2024-2025</span>
     </div>
   </article>
