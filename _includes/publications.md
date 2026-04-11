@@ -71,7 +71,8 @@
             <span class="pub-badge pub-badge--rank{% if link.ccf == 'A' %} pub-badge--a{% else %} pub-badge--b{% endif %}">CCF {{ link.ccf }}</span>
             {% endif %}
             {% if link.notes %}
-            <span class="pub-badge pub-badge--note">{{ link.notes }}</span>
+            {% assign note_down = link.notes | downcase %}
+            <span class="pub-badge pub-badge--note{% if note_down contains 'highlight' %} pub-badge--highlight{% elsif note_down contains 'oral' %} pub-badge--oral{% endif %}">{{ link.notes }}</span>
             {% endif %}
             {% if link.others %}
             {{ link.others }}

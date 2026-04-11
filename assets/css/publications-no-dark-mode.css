@@ -284,6 +284,52 @@
   color: #fff;
 }
 
+.publications .pub-badge.pub-badge--highlight,
+.publications .pub-badge.pub-badge--oral {
+  position: relative;
+  overflow: hidden;
+  border-color: transparent;
+  color: #fffdf5;
+  text-shadow: 0 1px 0 rgba(116, 72, 0, 0.14);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.52),
+    0 10px 20px rgba(216, 160, 49, 0.2),
+    0 0 0 1px rgba(255, 255, 255, 0.18);
+}
+
+.publications .pub-badge.pub-badge--highlight::before,
+.publications .pub-badge.pub-badge--oral::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.48), rgba(255, 255, 255, 0.04) 28%, rgba(255, 255, 255, 0) 58%),
+    radial-gradient(circle at 18% 24%, rgba(255, 255, 255, 0.52), rgba(255, 255, 255, 0) 44%);
+  pointer-events: none;
+}
+
+.publications .pub-badge.pub-badge--highlight {
+  background:
+    linear-gradient(135deg, rgba(255, 243, 186, 0.98), rgba(247, 208, 98, 0.98) 34%, rgba(228, 167, 42, 0.98) 72%, rgba(205, 137, 19, 0.98));
+  color: #744600;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.18);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.64),
+    0 11px 22px rgba(214, 167, 57, 0.22),
+    0 0 18px rgba(245, 214, 112, 0.22);
+}
+
+.publications .pub-badge.pub-badge--oral {
+  background:
+    linear-gradient(135deg, rgba(255, 235, 197, 0.98), rgba(255, 197, 132, 0.98) 38%, rgba(239, 151, 94, 0.98) 72%, rgba(224, 124, 85, 0.98));
+  color: #7d3f17;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.16);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.58),
+    0 11px 22px rgba(230, 143, 88, 0.2),
+    0 0 18px rgba(248, 196, 136, 0.18);
+}
+
 .publications .hidden {
   display: none;
 }
