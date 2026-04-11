@@ -1,4 +1,5 @@
-<h2>Selected Publications <small>(* = Equal Contribution)</small></h2>
+<h2>Selected Publications</h2>
+<p class="publications-note">* = Equal Contribution</p>
 
 <div class="publications">
   <ol class="bibliography">
