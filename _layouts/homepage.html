@@ -36,6 +36,24 @@
     <link rel="stylesheet" href="./assets/css/awards.css">
   </head>
   <body>
+    <div class="site-header-bar">
+      <div class="site-header-bar__inner">
+        <a class="site-header-brand" href="#about" aria-label="{{ site.title }}">
+          <img class="site-header-brand__mark" src="./assets/img/ghibli.png" alt="" aria-hidden="true">
+          <span class="site-header-brand__name">{{ site.title }}</span>
+        </a>
+
+        <nav class="page-nav" aria-label="Section navigation">
+          <a href="#about">About</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+          <a href="#awards">Awards</a>
+          <a href="#services">Services</a>
+          <a href="#teaching">Teaching</a>
+        </nav>
+      </div>
+    </div>
+
     <div class="wrapper">
       <header class="site-sidebar">
         <div class="profile-card">
@@ -121,18 +139,6 @@
       </header>
 
       <main class="content-column">
-        <nav class="page-nav" aria-label="Section navigation">
-          <a href="#about">About</a>
-          <a href="#news">News</a>
-          <a href="#publications">Publications</a>
-          <a href="#awards">Awards</a>
-          <a href="#services">Services</a>
-          <a href="#teaching">Teaching</a>
-          {% if site.cv_link %}
-          <a href="{{ site.cv_link }}" target="_blank" rel="noopener">CV</a>
-          {% endif %}
-        </nav>
-
         <div class="content-stack">
           {{ content }}
         </div>
