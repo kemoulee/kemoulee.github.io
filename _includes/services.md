@@ -7,7 +7,7 @@
       <div class="feature-row">
         <div class="feature-main">
           <strong>Session Chair</strong>
-          <p><a href="http://apsipa.org/asc_web/apsipa2024/index.html"><strong>APSIPA ASC 2024</strong></a>, Dec. 3-6, Macao, China</p>
+          <p><a href="http://apsipa.org/asc_web/apsipa2024/index.html"><span class="service-link-emphasis">APSIPA ASC 2024</span></a>, Dec. 3-6, Macao, China</p>
         </div>
       </div>
     </div>
