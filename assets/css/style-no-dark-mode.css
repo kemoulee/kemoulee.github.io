@@ -958,7 +958,7 @@ h3 {
 .course-badges {
   display: inline-flex;
   align-items: center;
-  gap: 0.42rem;
+  gap: 0.34rem;
   min-width: 0;
 }
 
@@ -979,14 +979,15 @@ h3 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.28rem 0.52rem;
+  padding: 0.28rem 0.48rem;
   border-radius: 999px;
-  border: 1px solid rgba(95, 125, 169, 0.2);
-  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(199, 214, 233, 0.95);
+  background: linear-gradient(145deg, rgba(238, 243, 249, 0.94), rgba(233, 242, 255, 0.96));
   color: var(--page-accent-deep);
-  font-size: 0.72rem;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  font-size: 0.64rem;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
   line-height: 1;
 }
 
@@ -1000,8 +1001,8 @@ h3 {
 .teaching-card h4 {
   margin: 0;
   color: var(--page-heading);
-  font-size: 0.91rem;
-  line-height: 1.34;
+  font-size: 0.84rem;
+  line-height: 1.3;
   font-weight: 700;
 }
 
