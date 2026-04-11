@@ -5,7 +5,7 @@
     <img class="teaching-shell__logo" src="/assets/img/um-logo-black.png" alt="University of Macau logo">
     <p class="feature-eyebrow">Teaching Assistant</p>
     <h3>University of Macau</h3>
-    <p>I have supported both postgraduate and graduate courses in artificial intelligence, machine learning, multimedia, and image processing.</p>
+    <p>I have supported both postgraduate (PG) and graduate (G) courses in artificial intelligence, machine learning, multimedia, and image processing.</p>
   </div>
 
   <div class="teaching-grid">

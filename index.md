@@ -11,7 +11,7 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 
 <div class="about-callout">
   <span class="about-callout__icon" aria-hidden="true">
-    <i class="fa-solid fa-thumbtack"></i>
+    <i class="fa-solid fa-location-dot"></i>
   </span>
   <p class="about-callout__text">I am looking for visiting PhD opportunity. Please feel free to contact me about any potential openings :)</p>
 </div>
