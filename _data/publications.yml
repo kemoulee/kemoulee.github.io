@@ -16,7 +16,7 @@ main:
     # pdf: https://openreview.net/forum?id=qCfYOLAzti
     code: https://github.com/HighwayWu/Editprint
     image: ./assets/img/Editprint.jpg
-    notes: Highlight
+    notes: Highlight (3.6%)
 
   - title: "LLM Unlearning with LLM Beliefs"
     authors: <strong><u>Kemou Li</u></strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
