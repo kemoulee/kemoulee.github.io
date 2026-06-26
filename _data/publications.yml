@@ -1,4 +1,13 @@
 main:
+  - title: "SEED: Simple ViT and Evolving Harness for Explainable Text Forgery Detection"
+    authors: Kahim Wong, <strong><u>Kemou Li</u></strong>, Yiming Chen, Haiwei Wu, Jiantao Zhou
+    conference_short: arXiv-26
+    conference: arXiv preprint, 2026
+    # badges: ["CCF A"]
+    pdf: https://arxiv.org/abs/2606.21138
+    code: https://github.com/KahimWong/GenText-Forensics-3rd-Place
+    image: ./assets/img/seed_overview.png
+
   - title: "<em>k</em>NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection"
     authors: Kahim Wong, <strong><u>Kemou Li</u></strong>, Haiwei Wu, Jiantao Zhou
     conference_short: arXiv-26
