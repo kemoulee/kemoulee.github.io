@@ -5,16 +5,16 @@ layout: homepage
 <section id="about" class="content-section content-section--hero" markdown="1">
 ## About Me
 
-I am <span class="about-emphasis">Kemou Li</span>, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by Prof. [*Jiantao Zhou*](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from [University of Macau](https://www.um.edu.mo/). I also work closely with Dr. [*Fengpeng Li*](https://feng-peng-li.github.io/FengpengLi/), Dr. [*Qizhou Wang*](https://qizhouwang.github.io/homepage/), Prof. [*Haiwei Wu*](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [*Bo Han*](http://bhanml.github.io/).
+Hi there! I am <span class="about-emphasis">Kemou Li</span>, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by Prof. [*Jiantao Zhou*](https://www.fst.um.edu.mo/personal/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from [University of Macau](https://www.um.edu.mo/). I also work closely with Dr. [*Fengpeng Li*](https://feng-peng-li.github.io/FengpengLi/), Dr. [*Qizhou Wang*](https://qizhouwang.github.io/homepage/), Prof. [*Haiwei Wu*](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [*Bo Han*](http://bhanml.github.io/).
 
-I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. 
-
+I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. I am always open to collaboration or exchanging ideas. Please feel free to contact me :
+<!-- 
 <div class="about-callout">
   <span class="about-callout__icon" aria-hidden="true">
     <i class="fa-solid fa-location-dot"></i>
   </span>
   <p class="about-callout__text">I am always open to collaboration or exchanging ideas. Please feel free to contact me :)</p>
-</div>
+</div> -->
 </section>
 
 <section id="news" class="content-section" markdown="1">
