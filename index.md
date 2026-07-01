@@ -5,7 +5,7 @@ layout: homepage
 <section id="about" class="content-section content-section--hero" markdown="1">
 ## About Me
 
-Hi there! I am <span class="about-emphasis">Kemou Li</span>, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by Prof. [*Jiantao Zhou*](https://personal.fst.um.edu.mo/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from [University of Macau](https://www.um.edu.mo/). I also work closely with Dr. [*Fengpeng Li*](https://feng-peng-li.github.io/FengpengLi/), Dr. [*Qizhou Wang*](https://qizhouwang.github.io/homepage/), Prof. [*Haiwei Wu*](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [*Bo Han*](http://bhanml.github.io/).
+Hi there! I am <span class="about-emphasis">Kemou Li</span>, currently a second-year PhD student in Computer Science at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by Prof. [*Jiantao Zhou*](https://personal.fst.um.edu.mo/jtzhou/). Prior to that, I earned my BS degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and my MS degree in Artificial Intelligence from [University of Macau](https://www.um.edu.mo/). I also work closely with Dr. [*Fengpeng Li*](https://scholar.google.com/citations?user=DgaQZ4wAAAAJ&hl=en), Dr. [*Qizhou Wang*](https://qizhouwang.github.io/homepage/), Prof. [*Haiwei Wu*](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [*Bo Han*](http://bhanml.github.io/).
 
 I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. 
 
@@ -22,7 +22,7 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 
 <div class="recent-news-scroll" markdown="1">
 
-- **2026-03** Our team wins the 6th place (6/532) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
+- **2026-03** Our team wins the 6th place (6/533) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
 - **2026-02** One paper on image forensics accepted to CVPR 2026 Highlight (3.6%). See you in Denver!
 - **2026-01** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio de Janeiro!
 - **2025-06** One paper on adversarial training accepted to IEEE TIFS.
