@@ -9,7 +9,7 @@ Hi there! I am <span class="about-emphasis">Kemou Li</span>, a second-year PhD s
 
 My research broadly lies in <strong>trustworthy AI</strong>, with the goal of making modern machine learning systems more reliable, robust, and controllable. Earlier in my research, I worked on learning with noisy labels, adversarial training, and forgery detection. Now I am focusing on <strong>LLM unlearning</strong>, especially its theoretical foundations and its role in safer model release and post-training. I am also interested in LLM alignment, persona and behavior control, explainability, and agent security. 
 
-Outside of research, I enjoy staying active through long-distance running, basketball, and swimming. I am also quite good at Chinese calligraphy, playing the flute, and Chinese chess. Beyond these, I am a rock music and film fan, with Radiohead and David Lynch among my favorites.
+Outside of research, I enjoy staying active through long-distance running 🏃, basketball 🏀, and swimming 🏊. I am also quite good at Chinese calligraphy ✍️, playing the flute 🎶, and Chinese chess ♟️. Beyond these, I am a rock music 🎸 and film fan 🎬, with Radiohead and David Lynch among my favorites.
 
 <div class="about-callout">
   <span class="about-callout__icon" aria-hidden="true">
