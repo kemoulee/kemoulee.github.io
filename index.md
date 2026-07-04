@@ -24,9 +24,9 @@ Outside of research, I enjoy staying active through long-distance running 🏃, 
 
 <div class="recent-news-scroll" markdown="1">
 
-- **2026-03** Our team wins the 6th place (6/533) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
+- **2026-03** Our team wins the 6th place (6/535) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
 - **2026-02** One paper on image forensics accepted to CVPR 2026 Highlight (3.6%). See you in Denver!
-- **2026-01** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio de Janeiro!
+- **2026-01** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio!
 - **2025-06** One paper on adversarial training accepted to IEEE TIFS.
 - **2025-06** Pass my PhD qualifying exam.
 - **2025-05** One paper on learning with noisy labels accepted to IJCV.
